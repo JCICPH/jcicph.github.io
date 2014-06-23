@@ -1,0 +1,5 @@
+name: JOSRA
+highlighter: pygments
+exclude: [README.md]
+timezone: Europe/Copenhagen
+url: www.josra.org
