@@ -1,23 +1,33 @@
 ---
-layout: post
-title: Josra Tool stack
+layout: sponsor
+title: Sponsors
 ---
-#The JOSRA tool stack
+#Organizers, hosts and sponsors
 
-Continuous Delivery (CoDe) and DevOps as the uniting factors. Continuous Delivery is like a credo for us - DevOps runs in our veins.
+<div style="width:180px;float:left;padding:25px;">
+  <div style="height:200px;position:relative;">
+    <a href="/sponsors/praqma.html"><img style="position: absolute; bottom: 0;width:200px" src="/images/praqma_logo_3D-_small.png" /></a>
+  </div>
+  <div style="height:40px;text-align:center;font-size:82%;padding-top:20px;">Conference organizer<br/>and host</div>
+</div>
 
-Currently the tools in the JOSRA tool stack all have some kind of relation to CoDe and DevOps. It includes:
+<div style="width:180px;float:left;padding:25px;">
+  <div style="height:200px;position:relative;">
+    <a href="/sponsors/ca.html"><img style="position: absolute; bottom: 0;width:200px" src="/images/CloudBees-logo.png" /></a>
+  </div>
+  <div style="height:40px;text-align:center;font-size:82%;padding-top:20px;">Gold sponsor</div>
+</div>
 
-* __Jenkins CI__ - the world famous automation platform (Open Source Community version)
-* __Matrix Reloaded plugin__ for Jenkins CI (Sony)
-* __ClearCase UCM plugin__ for Jenkins CI (Grundfos, Jaguar Land Rover, Novo Nordisk, Syntigo)
-* __Pretested integration plugin__ for Jenkins CI (Atmel)
-* __Config Rotator plugin__ for Jenkins CI (Grundfos)
-* __MemoryMap plugin__ for Jenkins (Yxlon, MAN Diesel & Turbo)
-* __Logging plugin__ for Jenkins CI (Praqma)
-* __PRQA plugin__ for Jenkins CI (Programming Research)
-* __Accelerated ClearCase__ - a set of generic perl triggers (Novo Nordisk, Grundfos, ATP, Siemens)
-* __COOL__ - the Clearcase Oriented Open Library (Grundfos, Novo Nordisk)
-* ...even a handful more Jenkins CI plugins and pile of other solutions, made available at Praqma's profile on GitHub
+<div style="width:180px;float:left;padding:25px;">
+  <div style="height:200px;position:relative;">
+    <a href="/sponsors/sonymobile.html"><img style="position: absolute; bottom: 0;width:200px" src="/images/sony_logo.png" /></a>
+  </div>
+  <div style="height:40px;text-align:center;font-size:82%;padding-top:20px;">Community sponsor</div>
+</div>
 
-As a rule of thumb; Any solution funded by one of the JOSRA alliance member enters into the JOSRA tool stack and will be continuously maintained and developed going forward.
+<div style="width:180px;float:left;padding:25px;">
+  <div style="height:200px;position:relative;">
+    <a href="/sponsors/ucph.html"><img style="position: absolute; bottom: 0;width:200px" src="/images/UniOfCPH.gif" /></a>
+  </div>
+  <div style="height:40px;text-align:center;font-size:82%;padding-top:20px;">Community sponsor<br> and venue host</div>
+</div>

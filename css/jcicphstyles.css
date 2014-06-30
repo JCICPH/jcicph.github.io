@@ -30,7 +30,7 @@ footer, header, hgroup, menu, nav, section {
 	display: block;
 }
 
-header, h1, h2, h3, h4, h5, h6, .darkbox, .greenbox, .menu, a.button{
+header, h1, h2, h3, h4, h5, h6, .darkbox, .greenbox, .bluebox, .menu, a.button{
   font-family: 'Open Sans Condensed', 'Helvetica Neue', Helvetica, Arial, serif;
 }
 
@@ -80,9 +80,8 @@ a:hover {
 header {
   padding-top: 0px;
   padding-bottom: 0px;
-  border-bottom: solid 1px #275da1;
-  background: #5b9b3d url("/images/TopName.jpg") no-repeat top center;
-  height: 215px;
+  background: #abe1fa;
+  height: 213px;
 }
 
 .menubar {
@@ -154,7 +153,7 @@ header a.menu:hover {
 
 .darkbox {
   background: #4b4b4b url(../images/4b4b4b.png) 0 0 repeat;  
-  max-width: 250px;
+  max-width: 200px;
   width: 100%;
   color: #FFFFFF;
   padding: 12px;
@@ -164,7 +163,7 @@ header a.menu:hover {
 
 .greenbox {
   background: #5b9b3d url(../images/5b9b3d.png) 0 0 repeat;  
-  max-width: 250px;
+  max-width: 200px;
   width: 100%;
   color: #FFFFFF;
   padding: 12px;
@@ -172,6 +171,15 @@ header a.menu:hover {
   
 }
 
+.bluebox {
+  background: #028ab0 url(../images/028ab0.png) 0 0 repeat;  
+  max-width: 200px;
+  width: 100%;
+  color: #ffffff;
+  padding: 12px;
+  font-size: 130%;
+  
+}
 
 
 
@@ -342,7 +350,7 @@ form {
   font-size: 22px;
   font-weight: bold;
   margin-bottom: 8px;
-  color: #5b9b3d;
+  color: #028ab0;
 } 
 
 p {

@@ -1,28 +1,25 @@
 ---
 layout: front
-title: CoDe CPH Conference 2014 Front
+title: Jenkins CI User Event 2014 
 ---
+#Jenkins CI User Event 2014 
+##in the heart of Copenhagen.
+__August 22nd, 2014 at the Univercity of Copenhagen.__
 
-<div class="subheading"> 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.
-</div>
+######The For the 3rd consecutive year Jenkins CI developers, architects, business managers, etc. from all over the world will gather for a day of networking and knowledge sharing. Last year the event gathered more than 130 attendees and this year we are expecting at least 200 - so join the movement and sign up today!
 
-######IN ENIM RHONCUS UT, IMPRIDIE A, VENTIRASK VITAE JUSTO. NULLAM DICTUM FELIS EU PEDE SED MOLLLIS PRETIUM.  
+<a href="https://plus.google.com/photos/112243565708972138490/albums/5922621584844676529" target="_blank">
+<img src="/images/jci2014.png" class="stdright" style="width:500."></a>
+With more than 77,000 active installations and 875 plugins Jenkins CI continues to be the world's’ leading Open Source continuous integration server. 
 
-Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. 
+##This event is relevant to:
+IT executives & managers, software architects & developers, project managers, agile coaches, system administrators - and everyone who's got DevOps at heart.
 
-##Phasellus viverra nulla ut metus varius laoreet. 
+The Jenkins CI User Event brings together current as well as soon-to-be Jenkins users to network and harness inspiration from peers. The program will consist of invited and contributed speaks, tech talks, case stories, and facilitated Open Space discussions on theory and application of continuous integration and agile development with Jenkins. Throughout the day there will be plenty of time for relaxed social as well as professional interaction and to get into rewarding discussions with your Jenkins peers.
 
-* Quisque rutrum. Aenean imperdiet. 
-* Etiam ultricies nisi vel augue. 
-* Curabitur ullamcorper ultricies nisi. Nam eget dui. 
-* Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. 
+This is a User Community Event, and in order to accommodate feedback from the two previous years, we have made some changes. All speaks - including those from sponsors - have to go through our call for papers process and we have adopted the [TED commandments](/agenda/cfp.html). We encourage enthusiastic and engaged speakers to submit papers and we encourage companies to take a look at our community sponsorships which - besides the good karma and recognition - gives you five seats both at the conference and the code camp!
 
-<span style="background:#4b4b4b; color:#FFFFFF; padding:2px;">Nam quam nunc, blandit vel, luctus pulvinar.</span> Hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. 
+The event is a unique chance to meet experienced Jenkins CI developers, community frontrunners, executives, and others who are engaged in building quality software and accelerating the delivery process through continuous integration. 
 
-##Sed consequat, leo eget bibendum sodales.
-Augue velit cursus nunc, quis gravida magna mi a libero. Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui. Cras ultricies mi eu turpis hendrerit fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. 
 
-Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum. Sed aliquam ultrices mauris. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. Praesent adipiscing. Phasellus ullamcorper ipsum rutrum nunc. Nunc nonummy metus. Vestibulum volutpat pretium libero. Cras id dui. Aenean ut eros et nisl sagittis vestibulum. 
 
-[SIGN UP](http://www.praqma.com) Nullam nulla eros, ultricies sit amet, nonummy id, imperdiet feugiat, pede. Sed lectus. Donec mollis hendrerit risus. Phasellus nec sem in justo pellentesque facilisis. Etiam imperdiet imperdiet orci. 
