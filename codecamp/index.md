@@ -5,7 +5,7 @@ title: Jenkins CI Code Camp 2014
 #Jenkins CI Code Camp 2014 
 __August 21st, 2014 at Praqmaplex__
 
-######In the spirit of the Jenkins CI community we will once again kick off the Jenkins CI User Event ´14 with the annual Jenkins CI Code Camp the day prior to the User Event. This full day community driven event has become one of our most popular events, where Jenkins peers band together to contribute content back to the community.
+######In the spirit of the Jenkins CI community we will once again kick off the Jenkins CI User Event 2014 with the annual Jenkins CI Code Camp the day prior to the User Event. This full day community driven event has become one of our most popular events, where Jenkins peers band together to contribute content back to the community.
 
 <a href="https://plus.google.com/photos/112243565708972138490/albums/5922621914342401441" target="_blank">
 <img src="/images/codecamp.jpg" class="stdright" style="width:500."></a>
