@@ -2,7 +2,7 @@
 layout: post
 title: JCICPH 2014 - speakers
 ---
-#JCICPH '14 - speakers
+#JCICPH 14' - speakers
 
 
 ##Stay tuned
