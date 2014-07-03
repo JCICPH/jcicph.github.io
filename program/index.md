@@ -2,7 +2,7 @@
 layout: program
 title: CoDe CPH 2014 Program
 ---
-#JCICPH 14 Program
+#JCICPH 14 - Program
 
 ##The program is on its way
 
