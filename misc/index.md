@@ -7,43 +7,26 @@ title: The rest
 
 ###Conference concept<br/>
 
-Continuous Delivery and DevOps are two concepts which lately have received a lot of attention in the IT industry.
-Continuous Delivery and DevOps can help large organizations become lean, agile and innovative.
- 
-Through low-risk releases, Continuous Delivery makes it possible to continuously adapt software in line with user feedback, shifts in the market and changes to business strategy.Test, support, development and operations work together as one delivery team to automate and streamline the build, test and release process. 
+The Copenhagen Jenkins User Event is focusing on gathering both current and soon-to-be users and developers of the Jenkins Continuous Integration server from all over Scandinavia to meet and get inspired by like minded peers and the presentations from community frontrunners as well as everyday Jenkins users.
 
-Continuous Delivery allows you to get new features and capabilities to market faster and more reliably and it is at the leading edge of software development thinking.
+To accommodate everyone, the program is constructed by a mix of presentations, tech-talks, user stories, workshops, birds-of-a-feather sessions, and facilitated Open Space discussions. Throughout the day there will be plenty of opportunity to network and get into rewarding discussions with Jenkins peers. In short, the JCICPH seeks to provide a venue for stakeholders within the Jenkins CI community to meet other people and companies who are equally engaged in Continuous Delivery and Continuous Integration with Jenkins and make valuable connections for the future.
 
-DevOps is a movement designed to facilitate the collaboration between development and IT operations to bring the portfolio of IT technology and applications forward in a cadence of faster, more predictable releases that support positive business outcomes.
+**The  Jenkins CI Code Camp**
 
-Hear about the latest development and best practices from the front runners and trend setters in the Continuous Delivery world. Enjoy the perfect venue at Hotel Marriott Copenhagen and meet your peers for new experiences, knowledge sharing, and network. <br/>
+Each year, in conjunction with the JCICPH, Praqma also arranges The Jenkins CI Community Code Camp. It's always on the day before the User Event and has become one of our most popular events, where Jenkins peers band together to contribute content back to the community. Often the Code Camp is visited by community celebs - so is a great opportunity to “code with the stars”. 
+The intended audience for Code Camp is both experienced Jenkins developers and developers who are looking at getting started with Jenkins plugin development.
 
-<a href="http://cdmi.praqma.net/">
-Is your company mature? Take the test 
-</a><br/>
-<a href="http://cdmi.praqma.net/">
-<img src="/images/maturity_model_web.png" class="stdcenter" style="width:600.">
-</a><br/>
+<br/>
 
 **Catering**<br/>
 Lunch, drinks and snacks are served on-site throughout the day.
 
 <br/>
-**Parking at the Hotel Marriott Copenhagen**<br/>
-There are a 3 parking lots around Hotel Marriott Copenhagen:
+**How to find by car and where to park at University of Copenhagen**<br/>
+There is easy access to the August Krogh Institute from the highway system around Copenhagen and Malmø, and good parking conditions at the institute (although now unfortunately restricted to a two hours period during daytime). When arriving from outside the Copenhagen area, follow the signs to København N (Copenhagen North). You may find it inconvenient to travel by car in the central part of Copenhagen.
 <br/>
 
-
-- Hotel Marriotts own parking lot and next to the hotel a public parking lot. 
-- There are also a public parking lot a cross from the hotel you can use. 
 
 Prices variates a bit depending on which one you chose.
 
 <br/>
-**Hotel**<br/>
-Book a hotel room at Hotel Mariott Copenhagen.
-Hotel Marriott Copenhagen **price rate is 1,999.00 DKK per night** for a single room, breakfast and VAT included.
-
-<a href="http://www.copenhagenmarriott.com/">
-Book a room at the Hotel Marriott Copenhagen
-</a><br/>
