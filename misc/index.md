@@ -27,6 +27,5 @@ There is easy access to the August Krogh Institute from the highway system aroun
 <br/>
 
 
-Prices variates a bit depending on which one you chose.
 
 <br/>
