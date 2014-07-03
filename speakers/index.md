@@ -1,8 +1,8 @@
 ---
 layout: post
-title: CoDe CPH 2014 - speakers
+title: JCICPH 2014 - speakers
 ---
-#CoDe CPH 2014 - speakers
+#JCICPH '14 - speakers
 
 
 ##Stay tuned
