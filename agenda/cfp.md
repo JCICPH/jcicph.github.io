@@ -12,6 +12,8 @@ If you'd like to recommend a good speaker on a topic related to Jenkins CI tweet
 
 Anyone who's accepted into the official program gets a free conference pass!
 
+######DEADLINE FOR CALL FOR PAPERS IS JULY 14th
+
 __We're adopting the TED Commandments - they are well thought through and proven.__
 
 <iframe src="https://docs.google.com/a/praqma.net/forms/d/16Q9ZDPGc1E-xsN-mrqxzdUxvdz_fpNLQRnO7gOYcr3g/viewform?embedded=true" frameborder="0" marginwidth="0" marginheight="0" width="650" height="1350">...loading</iframe>
