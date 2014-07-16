@@ -7,11 +7,7 @@ title: Sponsors
   <div style="height:200px;position:relative;">
     <img style="position: absolute; bottom: 0;width:200px" src="/images/XebiaLabs.png" />
   </div>
-<<<<<<< HEAD
-  <div style="height:40px;text-align:center;font-size:82%;">Gold sponsor<br/> and co-host</div>
-=======
   <div style="height:40px;text-align:center;font-size:82%;">Gold sponsor</div>
->>>>>>> origin/ready/corect_txt
 </div>
 
 
