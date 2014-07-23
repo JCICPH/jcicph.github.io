@@ -361,8 +361,7 @@ a {
   text-decoration: none;
 }
 
-.stdright, .stdleft, .stdcenter {
-   width:300px;
+.stdright, .stdleft, .stdcenter, .portrait {
    padding-top:    5px;
    padding-left:   5px;
    padding-right:  5px;
@@ -371,11 +370,22 @@ a {
    
 }
 
+.stdright, .stdleft, .stdcenter {
+   width:300px;
+}
+
+
+.portrait {
+   width:75px;
+}
+
+
+
 .stdright {
    float:right; 
 }
 
-.stdleft {
+.stdleft, .portrait {
    float:left; 
    margin-right: 10px;
 }
