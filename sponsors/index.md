@@ -38,3 +38,5 @@ title: Sponsors
   </div>
   <div style="height:40px;text-align:center;font-size:82%;padding-top:20px;">Community sponsor<br> and venue host</div>
 </div>
+
+<br clear="both">
