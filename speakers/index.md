@@ -83,7 +83,7 @@ BIT BLUEPRINT does strategic consultancy and technical development to help their
 
 #### Speak [Jenkins Meets Docker](/program#docker)
 
-![Nicholas De Loof](/images/speakers/nicholasdeloof.jpg){: .portrait} Nicolas De Loof has been a Java Architect for 15 years in French IT Services companies. He's now hacking at CloudBees having fun with hype technologies like Docker and micro-services architectures.<br clear="both">
+![Nicholas De Loof](/images/speakers/NicholasDeLoof.jpg){: .portrait} Nicolas De Loof has been a Java Architect for 15 years in French IT Services companies. He's now hacking at CloudBees having fun with hype technologies like Docker and micro-services architectures.<br clear="both">
 
 ## Nicholaj Ougaard
 {: #ougaard}
@@ -92,7 +92,7 @@ BIT BLUEPRINT does strategic consultancy and technical development to help their
 
 #### Speak [CI-push - The awesome and right way to do CI](/program#rightway)
 
-![Nicholaj Ougaard](/images/speakers/nicholajougaard.jpg){: .portrait} Nikolaj Ougaard has over 25 years development experience, the latest 10 years within the Java and decentral world. He has worked on implementing and presenting large scale processes and tools for a number of large organisations in the financial sector.<br clear="both">
+![Nicholaj Ougaard](/images/speakers/Nicholajougaard.jpg){: .portrait} Nikolaj Ougaard has over 25 years development experience, the latest 10 years within the Java and decentral world. He has worked on implementing and presenting large scale processes and tools for a number of large organisations in the financial sector.<br clear="both">
 
 ## Niels Bech Nielsen
 {: #Nielsen}
@@ -101,7 +101,7 @@ BIT BLUEPRINT does strategic consultancy and technical development to help their
 
 #### Speak [Manage your jobs with Job DSL](/program#dsl)
 
-![Niels Bech Nielsen](/images/speakers/nielsbech.jpg){: .portrait} Niels Bech Nielsen is a pragmatic software developer with experience in all parts of agile software development, which includes continuous integration and delivery. Apart from delivering software projects for larger clients Niels is also an active committer of open source, and have even provided patches for many jenkins plugins.<br clear="both">
+![Niels Bech Nielsen](/images/speakers/NielsBech.jpg){: .portrait} Niels Bech Nielsen is a pragmatic software developer with experience in all parts of agile software development, which includes continuous integration and delivery. Apart from delivering software projects for larger clients Niels is also an active committer of open source, and have even provided patches for many jenkins plugins.<br clear="both">
 
 ## Robert Sandell
 {: #sandell}
@@ -110,7 +110,7 @@ BIT BLUEPRINT does strategic consultancy and technical development to help their
 
 #### Speak [Taking Measures](/program#measures)
 
-![Robers Sandell](/images/speakers/robertsandell.jpg){: .portrait} Robert develops and maintains the Jenkins installations at Sony Mobile. He has been a Jenkins community member since 2010 and is maintainer of several plugins like the Gerrit Trigger and Build Failure Analyzer. Perhaps most importantly, he is an enjoyer of fine Calvados.<br clear="both">
+![Robers Sandell](/images/speakers/RobertSandell.jpg){: .portrait} Robert develops and maintains the Jenkins installations at Sony Mobile. He has been a Jenkins community member since 2010 and is maintainer of several plugins like the Gerrit Trigger and Build Failure Analyzer. Perhaps most importantly, he is an enjoyer of fine Calvados.<br clear="both">
 
 ## Andreas Rehn
 {: #Rehn}
