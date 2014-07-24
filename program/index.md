@@ -64,28 +64,28 @@ This presentation describes a vision and steps that a company can grow in Contin
 ## Using Jenkins for metadata harvesting on DR's danskkulturarv.dk
 {: #metadata}
 
-###### [Kræn Hansen](/speaker#hansen), BIT BLUEPRINT
+###### [Kræn Hansen](/speakers#hansen), BIT BLUEPRINT
 
 At BIT BLUEPRINT we have been using Jenkins CI as a platform and GUI to run and administer long-running jobs. Jobs that run for several hours harvesting metadata, essentially migrating multiple large datasets of cultural heritage data into the web services running the backends the "Danskkulturarv.dk" project. A project initiated by the Danish Broadcasting Corporation aggregating cultural heritage data from sources such as the National Museum of Denmark, the Danish Film Institute amongst others.
 
 ## Jenkins Meets Docker
 {: #docker}
 
-###### [Nicholas De Loof](/speaker#de_loof), CloudBees
+###### [Nicholas De Loof](/speakers#de_loof), CloudBees
 
 Docker is the perfect tool to assist Jenkins setting up a continuous delivery pipeline. During this presentation I'll quickly introduce Docker and suggest few ways to use it in combination with Jenkins.
 
 ## CI-Push - The awesome and right way to do CI
 {: #rightway}
 
-###### [Nikolaj Ougaard](/speaker#ougaard), Topdanmark
+###### [Nikolaj Ougaard](/speakers#ougaard), Topdanmark
 
 One of the worst things about CI is polling. Polling is an anti pattern and the solution is push. This talk will present a new open source solution that enables all CI systems incl. Jenkins to use a push setup. The solution is a loosely coupled system so no point to point integrations are needed.
 
 ## Manage your jobs with Job DSL
 {: #dsl}
 
-###### [ Niels Bech Nielsen](/speaker#Nielsen), Nine Consult
+###### [ Niels Bech Nielsen](/speakers#Nielsen), Nine Consult
 
 The job-dsl-plugin allows the programmatic creation of projects using a DSL. Pushing job creation into a script allows you to automate and standardize your Jenkins installation, unlike anything possible before.
 Learn how to keep your job configuration modular, under source control, and easily scriptable using Groovy DSL.
@@ -93,13 +93,13 @@ Learn how to keep your job configuration modular, under source control, and easi
 ## Taking Measures
 {: #measures}
 
-###### [Robert Sandell](/speaker#sandell), Sony Mobile Communications
+###### [Robert Sandell](/speakers#sandell), Sony Mobile Communications
 
 During the past year Sony Mobile have consolidated their Jenkins maintenance data into one central graphite server. From memory usage and http requests, to available slaves, how many jobs are executed, and how long time they spend in queue. This allows Sony Mobile to react more quickly when things break and follow up with historical data. This talk covers how the company are taking some of these measurements and what can be learned from them.
 
 ## Building a Service Delivery Platform
 {: #serviceplatform}
 
-###### [Andreas Rehn](/speaker#rehn), Diabol
+###### [Andreas Rehn](/speakers#rehn), Diabol
 
 This talk will walk through the critical parts of a tool chain that forms the service delivery platform, a robust, secure solution with Jenkins as the main orchestrator that scales with many teams and hundreds of pipelines. I will show a tool chain with Git, Jenkins, Jenkins Job Builder, Puppet, Graphite, Logstash and more that is proven in battle. I will share insights and details on good ways of building a platform for pipelines that recognizes the individual teams needs for fast feedback, traceability and visibility in the delivery process.
