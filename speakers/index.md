@@ -30,7 +30,7 @@ title: JCICPH 2014 - speakers
 ## Per-Arnold Blåsmo
 {: #blaasmo}
 
-###### Software craftsman, Atmel Corporation 
+###### Software craftsman, Atmel Corporation
 
 #### Speak: [Pretested Integration in Jenkins CI](/program#pretested_integration)
 
@@ -46,7 +46,7 @@ title: JCICPH 2014 - speakers
 
 #### Speak: [Using Jenkins as a component](/program#jci_as_component)
 
-![Jonas Bovin](/images/speakers/Jonas_Bovin.jpg){: .portrait} I am a software engineer and have been working with Java since 1997.The 'eXtreme Programming' wave piqued my interest for continuous build/integration and automated testing. I have been implementing automated build system and processes around test and SCM; first for Bankdata and currently for Vitec ALOC. SCM and SCM Patterns has been the main focus for years and I am a Certified Professional Software Configuration Manager (iNTCCM). Jenkins has been a valuable ally of mine since 2008. 
+![Jonas Bovin](/images/speakers/Jonas_Bovin.jpg){: .portrait} I am a software engineer and have been working with Java since 1997.The 'eXtreme Programming' wave piqued my interest for continuous build/integration and automated testing. I have been implementing automated build system and processes around test and SCM; first for Bankdata and currently for Vitec ALOC. SCM and SCM Patterns has been the main focus for years and I am a Certified Professional Software Configuration Manager (iNTCCM). Jenkins has been a valuable ally of mine since 2008.
 
 ## Timo Stollenwerk
 {: #stollenwerk}
@@ -65,3 +65,13 @@ title: JCICPH 2014 - speakers
 #### Speak: [What is your next step in Continuous Delivery?](/program#next_step)
 
 ![Adriaan de Jonge](/images/speakers/adriaan.png){: .portrait} Adriaan de Jonge is Principal Consultant at Xebia since 2012 and a fellow of XebiaLabs. He is co-author of The Manager's Guide to Continuous Delivery, which was published in 2014. He also wrote two developer guides about web technology, published by Addison-Wesley in 2011 and 2012. Adriaan was a speaker at PipelineConf London 2014, DevOps Summit Amsterdam 2014, JavaOne India 2013 in Scandinavian Developer Conference 2012.
+
+## Kræn Hansen
+{: #hansen}
+
+###### Chief Technology Officer & Co-founder, BIT BLUEPRINT
+
+#### Speak: [Using Jenkins for metadata harvesting on DR's danskkulturarv.dk](/program#metadata)
+
+![Kræn Hansen](/images/speakers/kraenhansen.jpg){: .portrait} Kræn has been programming from age 12, before he even knew the name of he was doing. Kræn helps organisations realize the full potential of the Open Source and data paradigms, through the IT consultancy, BIT BLUEPRINT, that he co-founded in 2013.
+BIT BLUEPRINT does strategic consultancy and technical development to help their customers: Boost creativity, Increase flexibility, and Reduce costs. Kræn holds a master's degree in computer science from DTU.
