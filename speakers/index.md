@@ -13,7 +13,7 @@ title: JCICPH 2014 - speakers
 
 #### Speak: [two for one](/program#two_for_one)
 
-![Kohsuke Kawaguchi](/images/speakers/kohsuke-14.jpg){: .portrait}Kohsuke wrote the majority of the Jenkins core single-handedly. Kohsuke has more than 10 years of extensive software development experience, ranging from Java to C++, .NET to x64 assembly, as well as systems expertise on several platforms, including Windows, Linux and Solaris. This broad range of experience was a key enabler in the development of various advanced features of Jenkins. Kohsuke is now Chief Technology Officer at CloudBees and an active member of the Jenkins User Conference Governance Committee.
+![Kohsuke Kawaguchi](/images/speakers/kohsuke-14.jpg){: .portrait}Kohsuke wrote the majority of the Jenkins core single-handedly. Kohsuke has more than 10 years of extensive software development experience, ranging from Java to C++, .NET to x64 assembly, as well as systems expertise on several platforms, including Windows, Linux and Solaris. This broad range of experience was a key enabler in the development of various advanced features of Jenkins. Kohsuke is now Chief Technology Officer at CloudBees and an active member of the Jenkins User Conference Governance Committee.<br clear="both">
 
 
 
@@ -24,7 +24,7 @@ title: JCICPH 2014 - speakers
 
 #### Speak: [Pretested Integration in Jenkins CI](/program#pretested_integration)
 
-![Lars Kruse](/images/speakers/lars_kruse.jpg){: .portrait} Lars Kruse is partner and co-founder of Praqma, a consultancy bureau specialized in services within optimization of software development processes and maintenance and development of Open Source tools for this purpose. Lars holds a M.Sc in computer science and communication theory and has many years of experience in software configuration management, processes automation, quality assurance and agile software development.
+![Lars Kruse](/images/speakers/lars_kruse.jpg){: .portrait} Lars Kruse is partner and co-founder of Praqma, a consultancy bureau specialized in services within optimization of software development processes and maintenance and development of Open Source tools for this purpose. Lars holds a M.Sc in computer science and communication theory and has many years of experience in software configuration management, processes automation, quality assurance and agile software development.<br clear="both">
 
 
 ## Per-Arnold Blåsmo
@@ -36,7 +36,7 @@ title: JCICPH 2014 - speakers
 
 
 
-![Per Arnold Blåsmo](/images/speakers/per-arnold.png){: .portrait} Department and Project Manager within software development and design in a wide variety of business areas such as transport, telecom, banking, mobile devices, and micro controllers. with focus on software for both embedded applications and for user applications. Currently responsible for deploying Continuous Deployment trough Atmel Corporation and the tool stack that supports it.
+![Per Arnold Blåsmo](/images/speakers/per-arnold.png){: .portrait} Department and Project Manager within software development and design in a wide variety of business areas such as transport, telecom, banking, mobile devices, and micro controllers. with focus on software for both embedded applications and for user applications. Currently responsible for deploying Continuous Deployment trough Atmel Corporation and the tool stack that supports it.<br clear="both">
 
 
 ## Jonas Bovin
@@ -46,7 +46,7 @@ title: JCICPH 2014 - speakers
 
 #### Speak: [Using Jenkins as a component](/program#jci_as_component)
 
-![Jonas Bovin](/images/speakers/Jonas_Bovin.jpg){: .portrait} I am a software engineer and have been working with Java since 1997.The 'eXtreme Programming' wave piqued my interest for continuous build/integration and automated testing. I have been implementing automated build system and processes around test and SCM; first for Bankdata and currently for Vitec ALOC. SCM and SCM Patterns has been the main focus for years and I am a Certified Professional Software Configuration Manager (iNTCCM). Jenkins has been a valuable ally of mine since 2008.
+![Jonas Bovin](/images/speakers/Jonas_Bovin.jpg){: .portrait} I am a software engineer and have been working with Java since 1997.The 'eXtreme Programming' wave piqued my interest for continuous build/integration and automated testing. I have been implementing automated build system and processes around test and SCM; first for Bankdata and currently for Vitec ALOC. SCM and SCM Patterns has been the main focus for years and I am a Certified Professional Software Configuration Manager (iNTCCM). Jenkins has been a valuable ally of mine since 2008.<br clear="both">
 
 ## Timo Stollenwerk
 {: #stollenwerk}
@@ -64,7 +64,7 @@ title: JCICPH 2014 - speakers
 
 #### Speak: [What is your next step in Continuous Delivery?](/program#next_step)
 
-![Adriaan de Jonge](/images/speakers/adriaan.png){: .portrait} Adriaan de Jonge is Principal Consultant at Xebia since 2012 and a fellow of XebiaLabs. He is co-author of The Manager's Guide to Continuous Delivery, which was published in 2014. He also wrote two developer guides about web technology, published by Addison-Wesley in 2011 and 2012. Adriaan was a speaker at PipelineConf London 2014, DevOps Summit Amsterdam 2014, JavaOne India 2013 in Scandinavian Developer Conference 2012.
+![Adriaan de Jonge](/images/speakers/adriaan.png){: .portrait} Adriaan de Jonge is Principal Consultant at Xebia since 2012 and a fellow of XebiaLabs. He is co-author of The Manager's Guide to Continuous Delivery, which was published in 2014. He also wrote two developer guides about web technology, published by Addison-Wesley in 2011 and 2012. Adriaan was a speaker at PipelineConf London 2014, DevOps Summit Amsterdam 2014, JavaOne India 2013 in Scandinavian Developer Conference 2012.<br clear="both">
 
 ## Kræn Hansen
 {: #hansen}
@@ -74,4 +74,49 @@ title: JCICPH 2014 - speakers
 #### Speak: [Using Jenkins for metadata harvesting on DR's danskkulturarv.dk](/program#metadata)
 
 ![Kræn Hansen](/images/speakers/kraenhansen.jpg){: .portrait} Kræn has been programming from age 12, before he even knew the name of he was doing. Kræn helps organisations realize the full potential of the Open Source and data paradigms, through the IT consultancy, BIT BLUEPRINT, that he co-founded in 2013.
-BIT BLUEPRINT does strategic consultancy and technical development to help their customers: Boost creativity, Increase flexibility, and Reduce costs. Kræn holds a master's degree in computer science from DTU.
+BIT BLUEPRINT does strategic consultancy and technical development to help their customers: Boost creativity, Increase flexibility, and Reduce costs. Kræn holds a master's degree in computer science from DTU.<br clear="both">
+
+## Nicholas De Loof
+{: #de_loof}
+
+###### Hacker, CloudBees
+
+#### Speak [Jenkins Meets Docker](/program#docker)
+
+![Nicholas De Loof](/images/speakers/nicholasdeloof.jpg){: .portrait} Nicolas De Loof has been a Java Architect for 15 years in French IT Services companies. He's now hacking at CloudBees having fun with hype technologies like Docker and micro-services architectures.<br clear="both">
+
+## Nicholaj Ougaard
+{: #ougaard}
+
+###### Java & tool specialist, Topdanmark
+
+#### Speak [CI-push - The awesome and right way to do CI](/program#rightway)
+
+![Nicholaj Ougaard](/images/speakers/nicholajougaard.jpg){: .portrait} Nikolaj Ougaard has over 25 years development experience, the latest 10 years within the Java and decentral world. He has worked on implementing and presenting large scale processes and tools for a number of large organisations in the financial sector.<br clear="both">
+
+## Niels Bech Nielsen
+{: #Nielsen}
+
+###### Senior Consultant, Nine Consult
+
+#### Speak [Manage your jobs with Job DSL](/program#dsl)
+
+![Niels Bech Nielsen](/images/speakers/nielsbech.jpg){: .portrait} Niels Bech Nielsen is a pragmatic software developer with experience in all parts of agile software development, which includes continuous integration and delivery. Apart from delivering software projects for larger clients Niels is also an active committer of open source, and have even provided patches for many jenkins plugins.<br clear="both">
+
+## Robert Sandell
+{: #sandell}
+
+###### Staff Engineer, Sony Mobile Communications
+
+#### Speak [Taking Measures](/program#measures)
+
+![Robers Sandell](/images/speakers/robertsandell.jpg){: .portrait} Robert develops and maintains the Jenkins installations at Sony Mobile. He has been a Jenkins community member since 2010 and is maintainer of several plugins like the Gerrit Trigger and Build Failure Analyzer. Perhaps most importantly, he is an enjoyer of fine Calvados.<br clear="both">
+
+## Andreas Rehn
+{: #Rehn}
+
+###### Continuous Delivery Coach, Diabol
+
+#### Speak [Building a Service Platform](program#serviceplatform)
+
+![Andreas Rehn](/images/speakers/andreasrehn.jpg){: .portrait} Andreas is an Enterprise Architect and a strong advocate for Continuous Delivery, DevOps, Agile, and Lean methods in systems development. With extensive experience in many disciplines of software development and a solid understanding of process, information and management theories and practises; he’s dedicated to help customers implement Continuous Delivery and transform their business by adopting new methods for efficient and modern software development. Andreas has driven several successful projects for implementing Continuous Delivery that produced amazing results and likes to share both technical and non-tech details and lessons learned.<br clear="both">
