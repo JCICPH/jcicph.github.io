@@ -128,4 +128,4 @@ BIT BLUEPRINT does strategic consultancy and technical development to help their
 
 #### Speak [Why Version Control requires CI - and CI Version Control](/program#versioncontrol)
 
-![Sven Erik Knopp](/images/speakers/svenerik.jpg){: .portrait} Sven Erik Knop is a technical marketing manager at Perforce Software, a vendor of version management technology. He has a background in physics, programming, and database administration, and trains Perforce customers on a large variety of topics. He resides in the UK and is on Twitter at @p4sven.<br clear="both">
+![Sven Erik Knopp](/images/speakers/SvenErik.jpg){: .portrait} Sven Erik Knop is a technical marketing manager at Perforce Software, a vendor of version management technology. He has a background in physics, programming, and database administration, and trains Perforce customers on a large variety of topics. He resides in the UK and is on Twitter at @p4sven.<br clear="both">
