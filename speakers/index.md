@@ -117,6 +117,15 @@ BIT BLUEPRINT does strategic consultancy and technical development to help their
 
 ###### Continuous Delivery Coach, Diabol
 
-#### Speak [Building a Service Platform](program#serviceplatform)
+#### Speak [Building a Service Platform](/program#serviceplatform)
 
 ![Andreas Rehn](/images/speakers/andreasrehn.jpg){: .portrait} Andreas is an Enterprise Architect and a strong advocate for Continuous Delivery, DevOps, Agile, and Lean methods in systems development. With extensive experience in many disciplines of software development and a solid understanding of process, information and management theories and practises; he’s dedicated to help customers implement Continuous Delivery and transform their business by adopting new methods for efficient and modern software development. Andreas has driven several successful projects for implementing Continuous Delivery that produced amazing results and likes to share both technical and non-tech details and lessons learned.<br clear="both">
+
+## Sven Erik Knopp
+{: #Knopp}
+
+###### Technical Marketing Manager, Perforce
+
+#### Speak [Why Version Control requires CI - and CI Version Control](/program#versioncontrol)
+
+![Sven Erik Knopp](/images/speakers/svenerik.jpg){: .portrait} Sven Erik Knop is a technical marketing manager at Perforce Software, a vendor of version management technology. He has a background in physics, programming, and database administration, and trains Perforce customers on a large variety of topics. He resides in the UK and is on Twitter at @p4sven.<br clear="both">
