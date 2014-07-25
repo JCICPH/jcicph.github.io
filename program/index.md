@@ -103,3 +103,11 @@ During the past year Sony Mobile have consolidated their Jenkins maintenance dat
 ###### [Andreas Rehn](/speakers#rehn), Diabol
 
 This talk will walk through the critical parts of a tool chain that forms the service delivery platform, a robust, secure solution with Jenkins as the main orchestrator that scales with many teams and hundreds of pipelines. I will show a tool chain with Git, Jenkins, Jenkins Job Builder, Puppet, Graphite, Logstash and more that is proven in battle. I will share insights and details on good ways of building a platform for pipelines that recognizes the individual teams needs for fast feedback, traceability and visibility in the delivery process.
+
+## Why Version Control requires CI - and CI Version Control
+{: #versioncontrol}
+
+###### [Sven Erik Knopp](/speakers#Knopp), Perforce
+
+Why is a version control system necessary for CI? Why is CI necessary for a version control systems?
+What is the role of code review in this process? It is all about protecting the mainline - making sure your project is always ready to build and deploy. Learn about how to keep your projects safe using the example of a build pipeline based on Perforce, Swarm and the new Jenkins Perforce plugin.
