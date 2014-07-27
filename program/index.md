@@ -85,7 +85,7 @@ One of the worst things about CI is polling. Polling is an anti pattern and the 
 ## Manage your jobs with Job DSL
 {: #dsl}
 
-###### [ Niels Bech Nielsen](/speakers#Nielsen), Nine Consult
+###### [ Niels Bech Nielsen](/speakers#nielsen), Nine Consult
 
 The job-dsl-plugin allows the programmatic creation of projects using a DSL. Pushing job creation into a script allows you to automate and standardize your Jenkins installation, unlike anything possible before.
 Learn how to keep your job configuration modular, under source control, and easily scriptable using Groovy DSL.
@@ -107,7 +107,7 @@ This talk will walk through the critical parts of a tool chain that forms the se
 ## Why Version Control requires CI - and CI Version Control
 {: #versioncontrol}
 
-###### [Sven Erik Knopp](/speakers#Knopp), Perforce
+###### [Sven Erik Knopp](/speakers#knopp), Perforce
 
 Why is a version control system necessary for CI? Why is CI necessary for a version control systems?
 What is the role of code review in this process? It is all about protecting the mainline - making sure your project is always ready to build and deploy. Learn about how to keep your projects safe using the example of a build pipeline based on Perforce, Swarm and the new Jenkins Perforce plugin.

@@ -2,8 +2,10 @@
 layout: front
 title: Jenkins CI User Event 2014 
 ---
-#Jenkins CI User Event 2014 
-##in the heart of Copenhagen.
+#Jenkins CI User Event 2014
+
+## in the heart of Copenhagen.
+
 __August 22nd, 2014 at the Univercity of Copenhagen.__
 
 ######The For the 3rd consecutive year Jenkins CI developers, architects, business managers, etc. from all over the world will gather for a day of networking and knowledge sharing. Last year the event gathered more than 130 attendees and this year we are expecting at least 200 - so join the movement and sign up today!
