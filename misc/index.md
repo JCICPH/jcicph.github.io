@@ -22,8 +22,8 @@ There is easy access to the August Krogh Institute from the highway system aroun
 **Accommodation**<br/>
 There are not a lot of accommodations close to the venue, however Copenhagen is very small and the venue can easily be accessed with public transportation. We can recommend the following two places, which are located centrally and fairly cheap.<br/>
 
-<a href="http://generatorhostels.com/en/destinations/copenhagen/">Generator Hostel Copenhagen</a><br/>
-Adelgade 5, 1304 Copenhagen K<br/>
+<a href="http://www.sktpetri.com/">Hotel Skt. Prtri</a><br/>
+Krystalgade 22, 1172 Copenhagen<br/>
 
 <a href="https://www.wakeupcopenhagen.dk/">Wakeup Copenhagen</a><br/>
 Borgergade 9, Copenhagen, 1300, Copenhagen<br/>
