@@ -19,6 +19,15 @@ Lunch, drinks and snacks are served on-site throughout the day.
 There is easy access to the August Krogh Institute from the highway system around Copenhagen and Malmø, and good parking conditions at the institute. We have arranged for parking tickets for attendees, which can be found at the registration counter upon arrival. When arriving from outside the Copenhagen area, follow the signs to København N (Copenhagen North). You may find it inconvenient to travel by car in the central part of Copenhagen.
 <br/>
 
+**Accommodation**<br/>
+There are not a lot of accommodations close to the venue, however Copenhagen is very small and the venue can easily be accessed with public transportation. We can recommend the following two places, which are located centrally and fairly cheap.<br/>
+
+<a href="http://generatorhostels.com/en/destinations/copenhagen/">Generator Hostel Copenhagen</a><br/>
+Adelgade 5, 1304 Copenhagen K<br/>
+
+<a href="https://www.wakeupcopenhagen.dk/">Wakeup Copenhagen</a><br/>
+Borgergade 9, Copenhagen, 1300, Copenhagen<br/>
+
 ###### The  Jenkins CI Code Camp
 
 Each year, in conjunction with the JCICPH, Praqma also arranges The Jenkins CI Community Code Camp. It's always on the day before the User Event and has become one of our most popular events, where Jenkins peers band together to contribute content back to the community. Often the Code Camp is visited by community celebs - so is a great opportunity to “code with the stars”.
