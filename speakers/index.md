@@ -95,7 +95,7 @@ BIT BLUEPRINT does strategic consultancy and technical development to help their
 ![Nicholaj Ougaard](/images/speakers/Nicholajougaard.jpg){: .portrait} Nikolaj Ougaard has over 25 years development experience, the latest 10 years within the Java and decentral world. He has worked on implementing and presenting large scale processes and tools for a number of large organisations in the financial sector.<br clear="both">
 
 ## Niels Bech Nielsen
-{: #Nielsen}
+{: #nielsen}
 
 ###### Senior Consultant, Nine Consult
 
@@ -113,7 +113,7 @@ BIT BLUEPRINT does strategic consultancy and technical development to help their
 ![Robers Sandell](/images/speakers/RobertSandell.jpg){: .portrait} Robert develops and maintains the Jenkins installations at Sony Mobile. He has been a Jenkins community member since 2010 and is maintainer of several plugins like the Gerrit Trigger and Build Failure Analyzer. Perhaps most importantly, he is an enjoyer of fine Calvados.<br clear="both">
 
 ## Andreas Rehn
-{: #Rehn}
+{: #rehn}
 
 ###### Continuous Delivery Coach, Diabol
 
@@ -122,7 +122,7 @@ BIT BLUEPRINT does strategic consultancy and technical development to help their
 ![Andreas Rehn](/images/speakers/andreasrehn.jpg){: .portrait} Andreas is an Enterprise Architect and a strong advocate for Continuous Delivery, DevOps, Agile, and Lean methods in systems development. With extensive experience in many disciplines of software development and a solid understanding of process, information and management theories and practises; he’s dedicated to help customers implement Continuous Delivery and transform their business by adopting new methods for efficient and modern software development. Andreas has driven several successful projects for implementing Continuous Delivery that produced amazing results and likes to share both technical and non-tech details and lessons learned.<br clear="both">
 
 ## Sven Erik Knopp
-{: #Knopp}
+{: #knopp}
 
 ###### Technical Marketing Manager, Perforce
 
