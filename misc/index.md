@@ -19,7 +19,11 @@ Lunch, drinks and snacks are served on-site throughout the day.
 There is easy access to the August Krogh Institute from the highway system around Copenhagen and Malmø, and good parking conditions at the institute. We have arranged for parking tickets for attendees, which can be found at the registration counter upon arrival. When arriving from outside the Copenhagen area, follow the signs to København N (Copenhagen North). You may find it inconvenient to travel by car in the central part of Copenhagen.
 <br/>
 
-**Accommodation**<br/>
+**How to get there by public transportation**<br/>
+From Nørreport Station the city buses will take you straight to the venue, get off at the University Park (Universitetsparken). You can use the bus line no. 42, 43, 150S, 184 and 185.<br/>
+
+
+**Accommodation in Copenhagen**<br/>
 There are not a lot of accommodations close to the venue, however Copenhagen is very small and the venue can easily be accessed with public transportation. We can recommend the following two places, which are located centrally and fairly cheap.<br/>
 
 <a href="http://www.sktpetri.com/">Hotel Skt. Prtri</a><br/>
