@@ -16,7 +16,13 @@
        document.getElementById("mail").innerHTML = person.mail;
        document.getElementById("mail").href = 'mailto:'+person.mail;
        document.getElementById("cell").innerHTML = person.cell;
-       document.getElementById("skype").innerHTML = 'Skype: '+person.skype;                
+       document.getElementById("cell_ref").href = "tel:"+encodeURI(person.cell);
+       if (typeof document.getElementById("skype") === 'undefined') { //Skype is optional - hence the fuzz
+         document.getElementById("skype").innerHTML = 'Skype: '+person.skype;  
+       } 
+       else {
+         document.getElementById("skype").innerHTML = '';  
+       }         
        /*alert(JSON.stringify(person));*/
      }
    }
@@ -52,7 +58,7 @@
         <span id="title">Partner &amp; Co-founder</span><br>
         <a id="mail" href="mailto:lak@praqma.net" style="text-decoration:none;color:#333333;"
         target="_blank">lak@praqma.net</a><br>
-        <span id="cell">+45 20 87 25 30</span><br>
+        <a id="cell_ref" href="tel:+45%202087%202530" style="text-decoration:none;color:#333333;"><span id="cell">+45 20 87 25 30</span></a><br>
         <span id="skype">Skype:lakruzz</span>
     </div>
     <div style="float:left;">
@@ -62,7 +68,7 @@
       <a href="http://www.praqma.com" style="text-decoration:none;color:#333333;" target="_blank">www.praqma.com</a><br>
          Aller&oslash;d Stationsvej 4<br>
          DK-3450 Aller&oslash;d<br>
-      <span title="+45 36 PRAQMA">+45 36 77 27 62</span>
+      <a id="cell_ref" href="tel:+45%203677%202762" style="text-decoration:none;color:#333333;"><span title="+45 36 PRAQMA">+45 36 77 27 62</span></a>
     </div>
   </div>
   <div id="test" style="color:red;">
