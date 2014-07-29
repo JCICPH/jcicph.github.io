@@ -17,7 +17,7 @@
        document.getElementById("mail").href = 'mailto:'+person.mail;
        document.getElementById("cell").innerHTML = person.cell;
        document.getElementById("cell_ref").href = "tel:"+encodeURI(person.cell);
-       if (typeof document.getElementById("skype") === 'undefined') { //Skype is optional - hence the fuzz
+       if (typeof person.skype != 'undefined') { //Skype is optional - hence the fuzz
          document.getElementById("skype").innerHTML = 'Skype: '+person.skype;  
        } 
        else {
