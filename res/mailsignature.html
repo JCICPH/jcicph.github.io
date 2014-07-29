@@ -1,0 +1,72 @@
+<script type="text/javascript" src="/javascripts/jquery-1.11.1.js"></script>
+<script type="text/javascript" src="/javascripts/praqmajsutils.js"></script>
+
+<script type="text/javascript">
+
+ var user=getParam ("user");
+ var layout=getParam("layout");
+  
+ $.getJSON('/res/persons.json', function(persons) {
+   /*console.log(persons); // this will show the info it in firebug console */
+   for (var person in persons) {
+     if (person == user){ 
+       var person = persons[person];
+       document.getElementById("name").innerHTML = person.name;
+       document.getElementById("title").innerHTML = person.title;
+       document.getElementById("mail").innerHTML = person.mail;
+       document.getElementById("mail").href = 'mailto:'+person.mail;
+       document.getElementById("cell").innerHTML = person.cell;
+       document.getElementById("skype").innerHTML = 'Skype: '+person.skype;                
+       /*alert(JSON.stringify(person));*/
+     }
+   }
+ });
+ 
+ 
+ $.getJSON('/res/design.json', function(designs) {
+   for (var design in designs) {
+     if (design == layout){ 
+       var design = designs[design];
+       document.getElementById("target").href = design.target;
+       document.getElementById("graphic").src  = design.graphic;
+     }
+   }
+ });
+ 
+
+ 
+</script>
+
+<div style="clear:both;width:600px;padding-top:15px;padding-bottom:15px;font-size:70%;font-family: Helvetica, Arial;color:#333333;font-size:small;">
+  <div style="font-size:85%">
+    <div style="padding-bottom:10;padding-top:10;">
+      <img alt="____________________________________________________________" 
+        src="http://www.praqma.com/sites/default/files/img/praqma.hruler.png"  
+        style="width:259px;">
+    </div>
+    
+     <div style="float:left;width:158px;">
+      <span id="name" style="font-size:105%;font-weight:bold;">
+        Lars Kruse, M.Sc.
+      </span><br>
+        <span id="title">Partner &amp; Co-founder</span><br>
+        <a id="mail" href="mailto:lak@praqma.net" style="text-decoration:none;color:#333333;"
+        target="_blank">lak@praqma.net</a><br>
+        <span id="cell">+45 20 87 25 30</span><br>
+        <span id="skype">Skype:lakruzz</span>
+    </div>
+    <div style="float:left;">
+      <span style="font-size:105%;font-weight:bold;">
+        Praqma<br>
+      </span>
+      <a href="http://www.praqma.com" style="text-decoration:none;color:#333333;" target="_blank">www.praqma.com</a><br>
+         Aller&oslash;d Stationsvej 4<br>
+         DK-3450 Aller&oslash;d<br>
+      <span title="+45 36 PRAQMA">+45 36 77 27 62</span>
+    </div>
+  </div>
+  <div id="test" style="color:red;">
+    <a id="target" href="http://www.jcicph.dk" target="_blank"><img id="graphic" style="width:100%;padding-top:15px;" src="http://www.jcicph.dk/images/jcicph-codecamp-signature.png"></a>
+  </div>
+</div>
+<br/>

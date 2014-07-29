@@ -1,0 +1,16 @@
+{ 
+  "ah": {
+    "name":"Adam Henriques",
+    "mail":"ah@praqma.net",
+    "title":"Sales & Marketing",
+    "cell":"+45 2812 9094",
+    "skype":"adamhenriques"
+  },
+  "lak": {
+    "name":"Lars Kruse",
+    "mail":"lak@praqma.net",
+    "title":"Partner & Co-founder",
+    "cell":"+45 2087 2530",
+    "skype":"lakruzz"      
+  }
+}
