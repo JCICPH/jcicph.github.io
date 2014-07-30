@@ -1,0 +1,14 @@
+{ 
+  "codecamp": {
+    "target":"http://www.jcicph.dk/codecamp",
+    "graphic":"http://www.jcicph.dk/images/jcicph-codecamp-signature.png"
+  },
+  "jcicph": {
+    "target":"http://www.jcicph.dk/codecamp",
+    "graphic":"http://www.jcicph.dk/images/jcicph-join.png"
+  },
+  "codecph": {
+    "target": "http://www.codecph.dk",
+    "graphic": "http://www.codecph.dk/images/codecph+signature.png"
+  }
+}

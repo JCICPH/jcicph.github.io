@@ -1,0 +1,69 @@
+{ 
+  "ah": {
+    "name":"Adam Henriques",
+    "mail":"ah@praqma.net",
+    "title":"Sales & Marketing",
+    "cell":"+45 28 12 90 94",
+    "skype":"adamhenriques"
+  },  
+  "les": {
+    "name":"Leif Sørensen",
+    "mail":"les@praqma.net",
+    "title":"Partner & Co-founder",
+    "cell":"+45 22 93 69 00",
+    "skype":"leifsore"
+  },
+  "man": {
+    "name":"Mads Nielsen",
+    "mail":"man@praqma.net",
+    "title":"Consultant",
+    "cell":"+45 50 98 18 09",
+    "skype":"inkspot"
+  },
+  "jes": {
+    "name":"Jes Struck",
+    "mail":"jes@praqma.net",
+    "title":"Consultant",
+    "cell":"+45 31 42 09 00",
+    "skype":"jes.struck"
+  },
+  "jbr": {
+    "name":"Jens Brejner",
+    "mail":"jbrejner@praqma.net",
+    "title":"Consultant",
+    "cell":"+45 22 616 313",
+    "skype":"jbrejner"
+  },  
+  "kat": {
+    "name":"Kattia Palludan",
+    "mail":"kat@praqma.net",
+    "title":"Marketing",
+    "cell":"+45 30 42 01 02",
+    "skype":"live:kattiap"
+  },
+  "and": {
+    "name":"Andrius Ordojan",
+    "mail":"and@praqma.net",
+    "title":"Consultant",
+    "cell":"+45 50 26 48 40"
+  },
+  "bue": {
+    "name":"Bue Petersen",
+    "mail":"bue@praqma.net",
+    "title":"Consultant",
+    "cell":"+45 29 72 64 12"
+  },  
+  "tim": {
+    "name":"Tim Harris",
+    "mail":"tim@praqma.net",
+    "title":"Consultant",
+    "cell":"+45 42 74 15 34"
+  },
+  "lak": {
+    "name":"Lars Kruse M.Sc.",
+    "mail":"lak@praqma.net",
+    "title":"Partner & Co-founder",
+    "cell":"+45 20 87 25 30",
+    "skype":"lakruzz"      
+  }
+}
