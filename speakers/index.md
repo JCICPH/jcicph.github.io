@@ -137,7 +137,7 @@ BIT BLUEPRINT does strategic consultancy and technical development to help their
 
 #### Speak [High Quality Plugins](/program#plugins)
 
-![Robert Hostlowsky](/images/speakers/Hostlowsky.png){: .portrait} Robert Hostlowsky works at Codecentric AG in Munich as a coach, helping other developers to improve on topics like code quality and efficient development methods.
+![Robert Hostlowsky](/images/speakers/hostlowsky.jpg){: .portrait} Robert Hostlowsky works at Codecentric AG in Munich as a coach, helping other developers to improve on topics like code quality and efficient development methods.
 Developing for more than 15 years in different roles, he knows different aspects of building software quite well.
 He has been using Hudson/Jenkins since 2007, always with lots of additional plugins installed.
 While developing an in-house build management tool for huge projects in a medical business, he had the chance to learn the positive impact of high quality on reliability and maintainability.
@@ -150,4 +150,4 @@ Currently, Robert has a focus on improving test automation, mainly to reduce cyc
 
 #### Speak [High Quality Plugins](/program#plugins)
 
-![Christian Langmann](/images/speakers/Langmann.png){: .portrait} Christian Langmann is Solution Consultant at Codecentric AG. His main topics are Continuous Integration, Continuous Deployment, culminating in Continuous Delivery. Before working at codecentric, Christian has years of experience in small and large projects as a consultant for EAI and SOA and working in different environments and programming languages. He has developed plugins for different ecosystems, most of them in the area of Continuous Delivery.<br clear="both">
+![Christian Langmann](/images/speakers/langmann.jpg){: .portrait} Christian Langmann is Solution Consultant at Codecentric AG. His main topics are Continuous Integration, Continuous Deployment, culminating in Continuous Delivery. Before working at codecentric, Christian has years of experience in small and large projects as a consultant for EAI and SOA and working in different environments and programming languages. He has developed plugins for different ecosystems, most of them in the area of Continuous Delivery.<br clear="both">
