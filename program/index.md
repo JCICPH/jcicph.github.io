@@ -111,3 +111,10 @@ This talk will walk through the critical parts of a tool chain that forms the se
 
 Why is a version control system necessary for CI? Why is CI necessary for a version control systems?
 What is the role of code review in this process? It is all about protecting the mainline - making sure your project is always ready to build and deploy. Learn about how to keep your projects safe using the example of a build pipeline based on Perforce, Swarm and the new Jenkins Perforce plugin.
+
+## High Quality Plugins
+{: #plugins}
+
+###### [Robert Hostlowsky](/speakers#hostlowsky) & [Christian Langmann](/speakers#langmann), Codecentric AG
+
+What actually is a high-quality plugin for Jenkins? What are the aspects you have to consider? We will discuss what developers can do to ensure high quality in the plugins they develop. A plugin must work reliably alongside others, so many things must be considered. For example, plugins must make efficient use of resources, be able to smoothly handle updates and work in many varied environments. We will also talk about the issues people from Operations must consider, in order to maintain a stable and functional CI-environment.

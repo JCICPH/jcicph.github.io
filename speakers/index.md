@@ -129,3 +129,25 @@ BIT BLUEPRINT does strategic consultancy and technical development to help their
 #### Speak [Why Version Control requires CI - and CI Version Control](/program#versioncontrol)
 
 ![Sven Erik Knopp](/images/speakers/sven.jpg){: .portrait} Sven Erik Knop is a technical marketing manager at Perforce Software, a vendor of version management technology. He has a background in physics, programming, and database administration, and trains Perforce customers on a large variety of topics. He resides in the UK and is on Twitter at @p4sven.<br clear="both">
+
+## Robert Hostlowsky
+{: #hostlowsky}
+
+###### Senior IT Consultant, Codecentric AG
+
+#### Speak [High Quality Plugins](/program#plugins)
+
+![Robert Hostlowsky](/images/speakers/Hostlowsky.png){: .portrait} Robert Hostlowsky works at Codecentric AG in Munich as a coach, helping other developers to improve on topics like code quality and efficient development methods.
+Developing for more than 15 years in different roles, he knows different aspects of building software quite well.
+He has been using Hudson/Jenkins since 2007, always with lots of additional plugins installed.
+While developing an in-house build management tool for huge projects in a medical business, he had the chance to learn the positive impact of high quality on reliability and maintainability.
+Currently, Robert has a focus on improving test automation, mainly to reduce cycle-time in continuous delivery.<br clear="both">
+
+## Christian Langmann
+{: #langmann}
+
+###### Solution Consultant, Codecentric AG
+
+#### Speak [High Quality Plugins](/program#plugins)
+
+![Christian Langmann](/images/speakers/Langmann.png){: .portrait} Christian Langmann is Solution Consultant at Codecentric AG. His main topics are Continuous Integration, Continuous Deployment, culminating in Continuous Delivery. Before working at codecentric, Christian has years of experience in small and large projects as a consultant for EAI and SOA and working in different environments and programming languages. He has developed plugins for different ecosystems, most of them in the area of Continuous Delivery.<br clear="both">
