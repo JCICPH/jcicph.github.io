@@ -151,3 +151,12 @@ Currently, Robert has a focus on improving test automation, mainly to reduce cyc
 #### Speak [High Quality Plugins](/program#plugins)
 
 ![Christian Langmann](/images/speakers/langmann.jpg){: .portrait} Christian Langmann is Solution Consultant at Codecentric AG. His main topics are Continuous Integration, Continuous Deployment, culminating in Continuous Delivery. Before working at codecentric, Christian has years of experience in small and large projects as a consultant for EAI and SOA and working in different environments and programming languages. He has developed plugins for different ecosystems, most of them in the area of Continuous Delivery.<br clear="both">
+
+## Alex Manly
+{: #manly}
+
+###### VP Product Development, MidVision
+
+### Speak [Stairway to Heaven: Ten Best Practices for Enterprise Continuous Delivery](/program#stairway)
+
+![Alex Manly](/images/speakers/manly.jpg){: .portrait} Alex is VP Product Development at MidVision. He has over 15 years' product development, consulting and enterprise scale IT automation transformation experience. He is a recognized domain expert in continuous integration and delivery including many of the open source and commercial toolsets used to help Developers and Operations Teams get things done. He has been instrumental in helping MidVision to be recognized globally for RapidDeploy, the leading enterprise application release automation platform. He has worked with many global customers across financial services, healthcare, government and retail to help with achieving their continuous delivery and DevOps goals.<br clear="both">

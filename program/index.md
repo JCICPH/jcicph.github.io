@@ -118,3 +118,10 @@ What is the role of code review in this process? It is all about protecting the 
 ###### [Robert Hostlowsky](/speakers#hostlowsky) & [Christian Langmann](/speakers#langmann), Codecentric AG
 
 What actually is a high-quality plugin for Jenkins? What are the aspects you have to consider? We will discuss what developers can do to ensure high quality in the plugins they develop. A plugin must work reliably alongside others, so many things must be considered. For example, plugins must make efficient use of resources, be able to smoothly handle updates and work in many varied environments. We will also talk about the issues people from Operations must consider, in order to maintain a stable and functional CI-environment.
+
+## Stairway to Heaven: Ten Best Practices for Enterprise Continuous Delivery
+{: #stairway}
+
+###### [Alex Manly](/speakers#manly), MidVision
+
+Continuous delivery helps you release more, more often, for less. This year it's high on the C-Level agenda and so it should be -- it's a game changer for IT. The journey for enterprises to adopt and embed continuous delivery practices into their organization is fraught with peril, but fortunately Jenkins paves the way. To help you ascend your stairway to continuous delivery heaven, here are ten tips for using Jenkins to line up your developers, operations teams, processes and tools. Make sure you don't trip! Come learn the most important considerations as you embark on your first step. 
