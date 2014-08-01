@@ -570,4 +570,20 @@ footer a:hover {
 @media only screen and (min-width: 480px) and (max-width: 767px) {}
 
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
-@media only screen and (max-width: 479px) {}
+@media only screen and (min-width: 404px) and (max-width: 537px) {
+
+  .menubar{
+    height: 90px;
+  }
+
+}
+
+
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+@media only screen and (max-width: 403px) {
+
+  .menubar{
+    height: 110px;
+  }
+
+}
