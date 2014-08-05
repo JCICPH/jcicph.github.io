@@ -125,3 +125,12 @@ What actually is a high-quality plugin for Jenkins? What are the aspects you hav
 ###### [Alex Manly](/speakers#manly), MidVision
 
 Continuous delivery helps you release more, more often, for less. This year it's high on the C-Level agenda and so it should be -- it's a game changer for IT. The journey for enterprises to adopt and embed continuous delivery practices into their organization is fraught with peril, but fortunately Jenkins paves the way. To help you ascend your stairway to continuous delivery heaven, here are ten tips for using Jenkins to line up your developers, operations teams, processes and tools. Make sure you don't trip! Come learn the most important considerations as you embark on your first step. 
+
+## Panel Discussion
+{: #panel}
+
+###### All speakers on stage
+
+This is the closing act of the conference, but far from your average panel discussion! In the break leading up to this session we will let you grab a cold beer. Relax - let your shoulders drop. During the day we will receive tweets on the [#JCICPH](/social/tweets) hashtag and some of the juicy and meaty ones we will throw up in the air and see who in the panel grabs them - the audience is very welcome to join in too. After a while when the debate is triggered, we'll let you all out to sandwiches, more beers and continued discussions.
+
+

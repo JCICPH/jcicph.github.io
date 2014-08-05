@@ -41,7 +41,7 @@ title: CoDe & DevOps Conference
   
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time">&nbsp;</div>
-    <div class="agenda-column agenda-1col agenda-header-item">Two tracks</div>
+    <div class="agenda-column agenda-1col agenda-header-item">Two tracks - 45 Minutes per Session</div>
   </div>
   
   <div class="agenda-row">
@@ -144,23 +144,23 @@ title: CoDe & DevOps Conference
 
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time timestamp">16:35</div>
-    <div class="agenda-column agenda-1col agenda-item"><strong>Why Version Control requires CI - and vice versa</strong><br/><em>Sven Erik Knop, Perforce</em></div>
+    <div class="agenda-column agenda-1col agenda-item"><a href="/program/#versioncontrol">Why Version Control requires CI - and vice versa</a><br/><em>Sven Erik Knop, Perforce</em></div>
   </div>
 
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time timestamp">16:45</div>
-    <div class="agenda-column agenda-1col agenda-item"><strong>Using Jenkins for Metadata Harvesting</strong><br/><em>Kræn Hansen, BIT BLUEPRINT</em></div>
+    <div class="agenda-column agenda-1col agenda-item"><a href="/program/#metadata">Using Jenkins for Metadata Harvesting</a><br/><em>Kræn Hansen, BIT BLUEPRINT</em></div>
   </div>
 
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time timestamp">16:55</div>
-    <!--div class="agenda-column agenda-1col agenda-item"><strong>Building Resilient CI Infrastructure</strong><br/><em>Kohsuke Kawaguchi, CloudBees</em></div-->
+    <!--div class="agenda-column agenda-1col agenda-item"><a href="/program/#two_for_one">Building Resilient CI Infrastructure</a><br/><em>Kohsuke Kawaguchi, CloudBees</em></div-->
     <div class="agenda-column agenda-1col agenda-item"><strong>To Be Determined</strong><br/><em>Suspense!</em></div>
   </div>
   
     <div class="agenda-row">
     <div class="agenda-column agenda-column-time timestamp">17:05</div>
-    <div class="agenda-column agenda-1col agenda-item"><strong>Manage Your Jobs With  Job DSL</strong><br/><em>Niels Bech Nielsen, Nine Consult</em></div>
+    <div class="agenda-column agenda-1col agenda-item"><a href="/program/#dsl">Manage Your Jobs With  Job DSL</a><br/><em>Niels Bech Nielsen, Nine Consult</em></div>
   </div>
   
   <div class="agenda-row">
@@ -175,7 +175,7 @@ title: CoDe & DevOps Conference
 
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time timestamp">17:30</div>
-    <div class="agenda-column agenda-1col agenda-item"><strong>Panel Discussion all presenters on stage</strong><br/><em>Questions from audience, Tweet'em to <a href="/social/tweets.html">#JCICPH</a> during the day</em></div>
+    <div class="agenda-column agenda-1col agenda-item"><a href="/program/#panel">Panel Discussion all presenters on stage</a><br/><em>Questions from audience, Tweet'em to <a href="/social/tweets.html">#JCICPH</a> during the day</em></div>
   </div>
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time timestamp">18:10</div>
