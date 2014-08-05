@@ -2,142 +2,183 @@
 layout: agenda
 title: CoDe & DevOps Conference
 ---
-#Continuous Delivery & DevOps Copenhagen - 2014 
+#Jenkins CI User Event - Copenhagen 2014 
 
-#Call for paper is now open! 
-
-  <a href="/events/jciusrcph13">
-  <img src="/images/codeu_logo_hvid_conference 2014.png" class="test" style="float: right;">
-  </a>
- The actual agenda is still on it's way. but [speakers](/speakers) are signed and their [presentation topics](/program) are online too.
-
- See you at the conference!
-
-<!--div class="container">
+<div class="container">
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time">&nbsp;</div>
     <div class="agenda-column agenda-1col agenda-header-item">Kickoff</div>
   </div>
   <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">9:00</div>
-    <div class="agenda-column agenda-1col agenda-break"><strong>Registration &amp; Breakfast</strong></div>
+    <div class="agenda-column agenda-column-time timestamp">8:00</div>
+    <div class="agenda-column agenda-1col agenda-break"><strong>Breakfast &amp; Registration</strong></div>
   </div>
   <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">9:30</div>
+    <div class="agenda-column agenda-column-time timestamp">9:00</div>
     <div class="agenda-column agenda-1col agenda-item">
-      <strong>Welcome &amp; Announcements</strong><br /><em>Praqma &amp; CA Technologies</em>
+      <strong>Welcome &amp; Announcements</strong><br /><em></em>
     </div>
   </div>
   <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">9:45</div>
+    <div class="agenda-column agenda-column-time timestamp">9:20</div>
     <div class="agenda-column agenda-1col agenda-item">
       <strong>Sponsor Line-up</strong><br />
-      <em>Praqma, CA Technologies</em>
+      <em>Praqma, CloudBees, XebiaLabs, Mid Vision, Sony, Nykredit, DIKU's Business club</em>
     </div>
   </div>
   <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">10:15</div>
+    <div class="agenda-column agenda-column-time timestamp">9:55</div>
     <div class="agenda-column agenda-1col agenda-item">
-      <a href="/program/#jci_state_of_union">Keynote: Stay tuned - will soon be announced</a><br />
-      <em>Name &amp; Title, Company</em>
+      <a href="/program/#jci_state_of_union">Keynote: State of the Union</a><br />
+      <em>Kohsuke Kawaguchi, Benevolent Dictator of the Community</em>
     </div>
   </div>
+
+  <div class="agenda-row">
+    <div class="agenda-column agenda-column-time timestamp">10:40</div>
+    <div class="agenda-column agenda-1col agenda-break"><strong>Break</strong></div>
+  </div>
+  
+  <div class="agenda-row">
+    <div class="agenda-column agenda-column-time">&nbsp;</div>
+    <div class="agenda-column agenda-1col agenda-header-item">Two tracks</div>
+  </div>
+  
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time timestamp">11:00</div>
-    <div class="agenda-column agenda-1col agenda-break"><strong>Break</strong></div>
-  </div>
-  <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">11:15</div>
-    <div class="agenda-column agenda-1col agenda-item">
-      <a href="/program/#cd_whats_the_point">Keynote: Stay tuned - will soon be announced</a><br />
-      <em>Name &amp; Title, Company</em>
+    <div class="agenda-column agenda-col2 agenda-item multi-line">
+      <a href="/program/#pretested_integration">
+    Pretested Integration in Jenkins <br/>Using a Branchy Approach
+      </a><br />
+      <em>Lars Kruse, Praqma & Per Arnold Blåsmo, Atmel</em>
+    </div>
+    <div class="agenda-column agenda-col2 agenda-item multi-line">
+      <a href="/program/#jci_as_component">Using Jenkins as a Component</a><br /><em>Jonas Bovin, Vitec ALOC</em><br/>&nbsp;
     </div>
   </div>
+      
   <div class="agenda-row">
-    <div class="agenda-column agenda-column-time">&nbsp;</div>
-    <div class="agenda-column agenda-1col agenda-header-item">Themes</div>
+    <div class="agenda-column agenda-column-time timestamp">11:45</div>
+    <div class="agenda-column agenda-1col agenda-break">
+      <strong>Swap track</strong>
+    </div>
+  </div>
+
+  <div class="agenda-row">
+    <div class="agenda-column agenda-column-time timestamp">12:55</div>
+    <div class="agenda-column agenda-col2 agenda-item"><a href="/program#stairway">Stairway to heaven: Ten Best Practices for Enterprise Continuous Delivery with Jenkins</a><br/><em>Alex Manly, Midvision</em></div>
+    <div class="agenda-column agenda-col2 agenda-item"><a href="/program#plugins">High Quality Jenkins Plugins</a><br/><em>Robert Hostlowsky & <br/>&nbsp;Christian Langmann, Codecentric AG</em></div>
+
   </div>
   <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">12:00</div>
-    <div class="agenda-column agenda-col-openspace agenda-item"><a href="/program/#slot1_1">Themes</a></div>
-    <div class="agenda-column agenda-col-openspace agenda-item"><a href="/program/#slot1_2">Themes</a></div>
-    <div class="agenda-column agenda-col-openspace agenda-item"><a href="/program/#slot1_3">Themes</a></div>
-    <div class="agenda-column agenda-col-openspace agenda-item"><a href="/program/#slot1_4">Themes</a></div>
-    <div class="agenda-column agenda-col-openspace agenda-item"><a href="/program/#slot1_5">Themes</a></div>
-  </div>
-  <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">12:30</div>
+    <div class="agenda-column agenda-column-time timestamp">12:40</div>
     <div class="agenda-column agenda-1col agenda-break"><strong>Lunch</strong></div>
   </div>
+  
   <div class="agenda-row">
-    <div class="agenda-column agenda-column-time">&nbsp;</div>
-    <div class="agenda-column agenda-1col agenda-header-item">Speaks - Themes - Stay tuned</div>
-  </div>
-  <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">13:15</div>
+    <div class="agenda-column agenda-column-time timestamp">13:25</div>
     <div class="agenda-column agenda-col2 agenda-item multi-line">
-      <a href="/program/#CI_early_n_often">
-    Header
+      <a href="/program/#butler_snake">
+    The Butler & the Snake
       </a><br />
-      <em>Name &amp; Title, Company</em>
+      <em>Timo Stollenwerk, Plone Foundation</em>
     </div>
     <div class="agenda-column agenda-col2 agenda-item multi-line">
-      <a href="/program/#jci_assisted_reviews">Header</a><br /><em>Name &amp; Title, Company</em>
+      <a href="/program/#next_step">What is your next step in Continuous Delivery?</a><br /><em>Adriaan de Jonge, XebiaLabs </em>
     </div>
-  </div>
-  <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">14:00</div>
-    <div class="agenda-column agenda-1col agenda-break"><strong>Break</strong></div>
   </div>
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time timestamp">14:10</div>
-    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="/program/#jci_in_the_startup_chaos">Header</a><br /><em>Name &amp; Title, Company &nbsp;</em></div>
-    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="/program/#solving_pretested_commits">Header</a><br /><em>Name &amp; Title, Company</em></div>
+    <div class="agenda-column agenda-1col agenda-break"><strong>Swap track</strong></div>
   </div>
-  <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">14:55</div>
-    <div class="agenda-column agenda-1col agenda-break"><strong>Break</strong></div>
-  </div>
+
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time">&nbsp;</div>
-    <div class="agenda-column agenda-1col agenda-header-item">Speaks themes ongoing - Stay tuned</div>
-  </div>
+    <div class="agenda-column agenda-1col agenda-header-item">Merge Track - 30 Minutes Per Session</div>
+  </div>  
+    
+  
   <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">15:05</div>
-    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="/program/#favorite_plugins">Header</a><br /><em>Name &amp; Title, Company</em></div>
-    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="/program/#getting_groovy_with_jci">Header</a><br /><em>Name &amp; Title,Company</em></div>
+    <div class="agenda-column agenda-column-time timestamp">14:20</div>
+    <div class="agenda-column agenda-1col agenda-item multi-line"><a href="/program/#two_for_one">Introducing Workflow</a><br /><em>Kohsuke Kawaguchi, CloudBees</em></div>
   </div>
+
+  
   <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">15:50</div>
+    <div class="agenda-column agenda-column-time timestamp">14:50</div>
     <div class="agenda-column agenda-1col agenda-break"><strong>Break</strong></div>
   </div>
-  <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">16:00</div>
-    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="/program/#creating_jci_plugins">Header</a><a href="/program/#getting_groovy_with_jci"><br /></a><em>Name &amp; Title, Company</em></div>
-    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="/program/#controlling_oss_licences">Header <br /></a><em>Name &amp; Title, Company</em></div>
-  </div>
+
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time">&nbsp;</div>
-    <div class="agenda-column agenda-1col agenda-header-item">Speak - stay tuned</div>
+    <div class="agenda-column agenda-1col agenda-header-item">Branch out - 30 Minutes Per Session</div>
+  </div>  
+    
+
+  <div class="agenda-row">
+    <div class="agenda-column agenda-column-time timestamp">15:15</div>
+    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="/program/#docker">Jenkins Meets Docker</a><br /><em>Nicolas De Loof, CloudBees</em></div>
+    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="/program/#measures">Taking Measures</a><br /><em>Robert Sandell, Sony</em></div>
+  </div>
+
+  <div class="agenda-row">
+    <div class="agenda-column agenda-column-time timestamp">15:45</div>
+    <div class="agenda-column agenda-1col agenda-break"><strong>Swap track</strong></div>
+  </div>
+  
+  <div class="agenda-row">
+    <div class="agenda-column agenda-column-time timestamp">15:55</div>
+    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="/program/#rightway">CI-push - the awesome and right way to do CI</a><br/><em>Nikolaj Ougaard, TopDanmark</em></div>
+    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="/program/#serviceplatform">Building a Service Delivery Platform<br /></a><em>Andreas Rehn, Diabol</em></div>
+  </div>
+  
+  <div class="agenda-row">
+    <div class="agenda-column agenda-column-time timestamp">16:25</div>
+    <div class="agenda-column agenda-1col agenda-break"><strong>Swap track</strong></div>
+  </div>
+  
+  <div class="agenda-row">
+    <div class="agenda-column agenda-column-time">&nbsp;</div>
+    <div class="agenda-column agenda-1col agenda-header-item">Lightning Talks - 10 Minutes Per Talk</div>
+  </div>
+
+  <div class="agenda-row">
+    <div class="agenda-column agenda-column-time timestamp">16:35</div>
+    <div class="agenda-column agenda-1col agenda-item"><strong>Why Version Control requires CI - and vice versa</strong><br/><em>Sven Erik Knop, Perforce</em></div>
+  </div>
+
+  <div class="agenda-row">
+    <div class="agenda-column agenda-column-time timestamp">16:45</div>
+    <div class="agenda-column agenda-1col agenda-item"><strong>Using Jenkins for Metadata Harvesting</strong><br/><em>Kræn Hansen, BIT BLUEPRINT</em></div>
+  </div>
+
+  <div class="agenda-row">
+    <div class="agenda-column agenda-column-time timestamp">16:55</div>
+    <!--div class="agenda-column agenda-1col agenda-item"><strong>Building Resilient CI Infrastructure</strong><br/><em>Kohsuke Kawaguchi, CloudBees</em></div-->
+    <div class="agenda-column agenda-1col agenda-item"><strong>To Be Determined</strong><br/><em>Suspense!</em></div>
+  </div>
+  
+    <div class="agenda-row">
+    <div class="agenda-column agenda-column-time timestamp">17:05</div>
+    <div class="agenda-column agenda-1col agenda-item"><strong>Manage Your Jobs With  Job DSL</strong><br/><em>Niels Bech Nielsen, Nine Consult</em></div>
+  </div>
+  
+  <div class="agenda-row">
+    <div class="agenda-column agenda-column-time">&nbsp;</div>
+    <div class="agenda-column agenda-1col agenda-header-item">Wrap Up, Loosen Up, Speak Up, Drink Up</div>
+  </div>  
+  
+  <div class="agenda-row">
+    <div class="agenda-column agenda-column-time timestamp">17:15</div>
+    <div class="agenda-column agenda-1col agenda-break"><strong>Go grab a refreshment (cold beers available)</strong></div>
+  </div>  
+
+  <div class="agenda-row">
+    <div class="agenda-column agenda-column-time timestamp">17:30</div>
+    <div class="agenda-column agenda-1col agenda-item"><strong>Panel Discussion all presenters on stage</strong><br/><em>Questions from audience, Tweet'em to <a href="/social/tweets.html">#JCICPH</a> during the day</em></div>
   </div>
   <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">16:30</div>
-    <div class="agenda-column agenda-1col agenda-item"><strong>Keynote</strong><em>&nbsp;</em></div>
+    <div class="agenda-column agenda-column-time timestamp">18:10</div>
+    <div class="agenda-column agenda-1col agenda-break"><strong>Networking Drinks and Snacks</strong><br />...it ends when it ends, socialize!</div>
   </div>
-  <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">16:30</div>
-    <div class="agenda-column agenda-col-openspace agenda-item"><a href="/program/#slot2_1">Speak</a></div>
-    <div class="agenda-column agenda-col-openspace agenda-item"><a href="/program/#slot2_2"></a></div>
-    <div class="agenda-column agenda-col-openspace agenda-item"><a href="/program/#slot2_3"></a></div>
-    <div class="agenda-column agenda-col-openspace agenda-item"><a href="/program/#slot2_4"></a></div>
-    <div class="agenda-column agenda-col-openspace agenda-item"><a href="/program/#slot2_5"></a></div>
-  </div>
-  <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">17:00</div>
-    <div class="agenda-column agenda-1col agenda-item"><strong>Meet-Up - to Wrap-Up</strong><em>&nbsp;</em></div>
-  </div>
-  <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">17:00</div>
-    <div class="agenda-column agenda-1col agenda-break"><strong>Networking &amp; Drinks</strong><br />...it ends when it ends, socialize!</div>
-  </div>
-</div-->
+</div>
