@@ -32,6 +32,17 @@ Krystalgade 22, 1172 Copenhagen<br/>
 <a href="https://www.wakeupcopenhagen.dk/">Wakeup Copenhagen</a><br/>
 Borgergade 9, Copenhagen, 1300, Copenhagen<br/>
 
+## Information for Sponsors<br/>
+Delivery of stand material can be sent to the event venue. All items must have the following information clearly indicated: "Jenkins CI User Event", name of the exhibiting company, number of pieces, name of the person in charge of the booth.<br/>
+All material must reach the event venue, no later than Aug. 20th.
+
+**Please send to;**<br/>
+Datalogisk Institut, DIKU<br/>
+Att: Ann Steendahl Søndergaard<br/>
+Universitetsparken 5<br/>
+DK-2100 København Ø<br/>
+Denmark<br/>
+
 ###### The  Jenkins CI Code Camp
 
 Each year, in conjunction with the JCICPH, Praqma also arranges The Jenkins CI Community Code Camp. It's always on the day before the User Event and has become one of our most popular events, where Jenkins peers band together to contribute content back to the community. Often the Code Camp is visited by community celebs - so is a great opportunity to “code with the stars”.
