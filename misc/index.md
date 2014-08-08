@@ -33,8 +33,8 @@ Krystalgade 22, 1172 Copenhagen<br/>
 Borgergade 9, Copenhagen, 1300, Copenhagen<br/>
 
 ## Information for Sponsors<br/>
-Delivery of stand material can be sent to the event venue. All items must have the following information clearly indicated: "Jenkins CI User Event", name of the exhibiting company, number of pieces, name of the person in charge of the booth.<br/>
-All material must reach the event venue, no later than Aug. 20th.
+Delivery of stand material can be sent to the event venue. All items must have the following information clearly indicated: "Jenkins CI User Event", name of the exhibiting company, number of pieces, and name of the person in charge of the stand.<br/>
+NOTE: All material must reach the event venue, no later than Aug. 20th.
 
 **Please send to;**<br/>
 Datalogisk Institut, DIKU<br/>
