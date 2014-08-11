@@ -2,7 +2,7 @@
 layout: agenda
 title: CoDe & DevOps Conference
 ---
-#Jenkins CI User Event - Copenhagen 2014 
+#Jenkins CI User Event - Copenhagen 2014
 
 <div class="container">
   <div class="agenda-row">
@@ -38,12 +38,12 @@ title: CoDe & DevOps Conference
     <div class="agenda-column agenda-column-time timestamp">10:40</div>
     <div class="agenda-column agenda-1col agenda-break"><strong>Break</strong></div>
   </div>
-  
+
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time">&nbsp;</div>
     <div class="agenda-column agenda-1col agenda-header-item">Two tracks - 45 Minutes per Session</div>
   </div>
-  
+
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time timestamp">11:00</div>
     <div class="agenda-column agenda-col2 agenda-item multi-line">
@@ -56,7 +56,7 @@ title: CoDe & DevOps Conference
       <a href="/program/#jci_as_component">Using Jenkins as a Component</a><br /><em>Jonas Bovin, Vitec ALOC</em><br/>&nbsp;
     </div>
   </div>
-      
+
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time timestamp">11:45</div>
     <div class="agenda-column agenda-1col agenda-break">
@@ -74,7 +74,7 @@ title: CoDe & DevOps Conference
     <div class="agenda-column agenda-column-time timestamp">12:40</div>
     <div class="agenda-column agenda-1col agenda-break"><strong>Lunch</strong></div>
   </div>
-  
+
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time timestamp">13:25</div>
     <div class="agenda-column agenda-col2 agenda-item multi-line">
@@ -96,14 +96,14 @@ title: CoDe & DevOps Conference
     <div class="agenda-column agenda-column-time">&nbsp;</div>
     <div class="agenda-column agenda-1col agenda-header-item">Merge Track - 30 Minutes Per Session</div>
   </div>  
-    
-  
+
+
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time timestamp">14:20</div>
     <div class="agenda-column agenda-1col agenda-item multi-line"><a href="/program/#two_for_one">Introducing Workflow</a><br /><em>Kohsuke Kawaguchi, CloudBees</em></div>
   </div>
 
-  
+
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time timestamp">14:50</div>
     <div class="agenda-column agenda-1col agenda-break"><strong>Break</strong></div>
@@ -113,7 +113,7 @@ title: CoDe & DevOps Conference
     <div class="agenda-column agenda-column-time">&nbsp;</div>
     <div class="agenda-column agenda-1col agenda-header-item">Branch out - 30 Minutes Per Session</div>
   </div>  
-    
+
 
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time timestamp">15:15</div>
@@ -125,18 +125,18 @@ title: CoDe & DevOps Conference
     <div class="agenda-column agenda-column-time timestamp">15:45</div>
     <div class="agenda-column agenda-1col agenda-break"><strong>Swap track</strong></div>
   </div>
-  
+
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time timestamp">15:55</div>
     <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="/program/#rightway">CI-push - the awesome and right way to do CI</a><br/><em>Nikolaj Ougaard, TopDanmark</em></div>
     <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="/program/#serviceplatform">Building a Service Delivery Platform<br /></a><em>Andreas Rehn, Diabol</em></div>
   </div>
-  
+
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time timestamp">16:25</div>
     <div class="agenda-column agenda-1col agenda-break"><strong>Swap track</strong></div>
   </div>
-  
+
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time">&nbsp;</div>
     <div class="agenda-column agenda-1col agenda-header-item">Lightning Talks - 10 Minutes Per Talk</div>
@@ -155,19 +155,19 @@ title: CoDe & DevOps Conference
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time timestamp">16:55</div>
     <!--div class="agenda-column agenda-1col agenda-item"><a href="/program/#two_for_one">Building Resilient CI Infrastructure</a><br/><em>Kohsuke Kawaguchi, CloudBees</em></div-->
-    <div class="agenda-column agenda-1col agenda-item"><strong>To Be Determined</strong><br/><em>Suspense!</em></div>
-  </div>
-  
+    <div class="agenda-column agenda-1col agenda-item"><a href="/program/#teaching">Configuration management and Continuous Integration (and Jenkins) in teaching</a><br/><em>Klaus Marius Hansen, Department of Computer Science - University of Copenhagen</em></div>
+</div>
+
     <div class="agenda-row">
     <div class="agenda-column agenda-column-time timestamp">17:05</div>
     <div class="agenda-column agenda-1col agenda-item"><a href="/program/#dsl">Manage Your Jobs With  Job DSL</a><br/><em>Niels Bech Nielsen, Nine Consult</em></div>
   </div>
-  
+
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time">&nbsp;</div>
     <div class="agenda-column agenda-1col agenda-header-item">Wrap Up, Loosen Up, Speak Up, Drink Up</div>
   </div>  
-  
+
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time timestamp">17:15</div>
     <div class="agenda-column agenda-1col agenda-break"><strong>Go grab a refreshment (cold beers available)</strong></div>
