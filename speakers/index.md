@@ -160,3 +160,14 @@ Currently, Robert has a focus on improving test automation, mainly to reduce cyc
 ### Speak [Stairway to Heaven: Ten Best Practices for Enterprise Continuous Delivery](/program#stairway)
 
 ![Alex Manly](/images/speakers/manly.jpg){: .portrait} Alex is VP Product Development at MidVision. He has over 15 years' product development, consulting and enterprise scale IT automation transformation experience. He is a recognized domain expert in continuous integration and delivery including many of the open source and commercial toolsets used to help Developers and Operations Teams get things done. He has been instrumental in helping MidVision to be recognized globally for RapidDeploy, the leading enterprise application release automation platform. He has worked with many global customers across financial services, healthcare, government and retail to help with achieving their continuous delivery and DevOps goals.<br clear="both">
+
+## Klaus Marius Hansen
+{: #mariushansen}
+
+###### Professor of software development, Department of Computer Science - University of Copenhagen
+
+### Speak [Configuration management and Continuous Integration (and Jenkins) in teaching](/program#teaching)
+
+![Klaus Marius Hansen](/images/speakers/khm.jpg){: .portrait} Klaus Marius Hansen is a full professor of software development at the Department of Computer Science (DIKU), University of Copenhagen. From 2008-2010, Klaus was a full professor of software engineering at University of Iceland and prior to that, he was associate professor at Aarhus University from 2004-2008 where he also obtained his PhD.
+
+Klaus Marius Hansen’s research interests are within software development, in particular in software architecture, development processes, and software ecosystems. Klaus has most recently been involved in research in and development of a software ecosystems for the healthcare domain. Dating back from 1997, Klaus has a long history of collaboration projects with (software) industry; a collaboration that has provided much inspiration for his research.<br clear="both">
