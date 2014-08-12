@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blogfront
 title: The rest
 ---
 #All the information you need<br/>
