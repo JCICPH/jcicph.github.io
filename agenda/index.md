@@ -23,7 +23,7 @@ title: CoDe & DevOps Conference
     <div class="agenda-column agenda-column-time timestamp">9:20</div>
     <div class="agenda-column agenda-1col agenda-item">
       <strong>Sponsor Line-up</strong><br />
-      <em>Praqma, CloudBees, XebiaLabs, Mid Vision, Sony, Nykredit, DIKU's Business club</em>
+      <em>Praqma, CloudBees, XebiaLabs, MidVision, Sony, Nykredit, DIKU's Business club</em>
     </div>
   </div>
   <div class="agenda-row">
@@ -66,7 +66,7 @@ title: CoDe & DevOps Conference
 
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time timestamp">12:55</div>
-    <div class="agenda-column agenda-col2 agenda-item"><a href="/program#stairway">Stairway to heaven: Ten Best Practices for Enterprise Continuous Delivery with Jenkins</a><br/><em>Alex Manly, Midvision</em></div>
+    <div class="agenda-column agenda-col2 agenda-item"><a href="/program#stairway">Stairway to heaven: Ten Best Practices for Enterprise Continuous Delivery with Jenkins</a><br/><em>Alex Manly, MidVision</em></div>
     <div class="agenda-column agenda-col2 agenda-item"><a href="/program#plugins">High Quality Jenkins Plugins</a><br/><em>Robert Hostlowsky & <br/>&nbsp;Christian Langmann, Codecentric AG</em></div>
 
   </div>
