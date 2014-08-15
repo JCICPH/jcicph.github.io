@@ -71,7 +71,7 @@ title: CoDe & DevOps Conference
   </div>
 
   <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">12:55</div>
+    <div class="agenda-column agenda-column-time timestamp">11:50</div>
     <div class="agenda-column agenda-col2 agenda-item multi-line">
 
     <a href="/program#stairway">Stairway to heaven: Ten Best Practices for Enterprise Continuous Delivery with Jenkins</a><br/><em>Alex Manly, MidVision</em></div>
