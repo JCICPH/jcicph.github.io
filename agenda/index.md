@@ -71,8 +71,13 @@ title: CoDe & DevOps Conference
   </div>
 
   <div class="agenda-row">
+<<<<<<< HEAD
+    <div class="agenda-column agenda-column-time timestamp">12:55</div>
+    <div class="agenda-column agenda-col2 agenda-item"><a href="/program#stairway">Stairway to heaven: Ten Best Practices for Enterprise Continuous Delivery with Jenkins</a><br/><em>Alex Manly, MidVision</em></div>
+=======
     <div class="agenda-column agenda-column-time timestamp">11:50</div>
     <div class="agenda-column agenda-col2 agenda-item"><a href="/program#stairway">Stairway to heaven: Ten Best Practices for Enterprise Continuous Delivery with Jenkins</a><br/><em>Alex Manly, Midvision</em></div>
+>>>>>>> 2ba668c3885fe28b2529fd97c05a9f4853796f9a
     <div class="agenda-column agenda-col2 agenda-item"><a href="/program#plugins">High Quality Jenkins Plugins</a><br/><em>Robert Hostlowsky & <br/>&nbsp;Christian Langmann, Codecentric AG</em></div>
   </div>
 
