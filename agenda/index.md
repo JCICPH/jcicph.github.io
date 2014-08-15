@@ -192,7 +192,7 @@ title: CoDe & DevOps Conference
 
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time timestamp">17:20</div>
-    <div class="agenda-column agenda-1col agenda-item"><a href="/program/#panel">Panel Discussion all presenters on stage</a><br/><em>Questions from audience, Tweet'em to <a href="/social/tweets.html">#JCICPH</a> during the day</em></div>
+    <div class="agenda-column agenda-1col agenda-item"><a href="/program/#panel">Panel Discussion all presenters on stage</a><br/><em>Topics from audience: Tweet'em to <a href="/social/tweets.html">@JCICPH</a> during the day</em></div>
   </div>
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time timestamp">18:00</div>
