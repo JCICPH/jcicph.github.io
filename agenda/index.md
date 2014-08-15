@@ -9,19 +9,19 @@ title: CoDe & DevOps Conference
     <div class="agenda-column agenda-column-time">&nbsp;</div>
     <div class="agenda-column agenda-1col agenda-header-item">Kickoff</div>
   </div>
-  
+
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time timestamp">8:00</div>
     <div class="agenda-column agenda-1col agenda-break"><strong>Breakfast &amp; Registration</strong></div>
   </div>
-  
+
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time timestamp">9:00</div>
     <div class="agenda-column agenda-1col agenda-item">
       <strong>Welcome &amp; Announcements</strong><br /><em></em>
     </div>
   </div>
-  
+
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time timestamp">9:20</div>
     <div class="agenda-column agenda-1col agenda-item">
@@ -29,7 +29,7 @@ title: CoDe & DevOps Conference
       <em>Praqma, CloudBees, XebiaLabs, MidVision, Sony, Nykredit, DIKU's Business club</em>
     </div>
   </div>
-  
+
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time timestamp">9:55</div>
     <div class="agenda-column agenda-1col agenda-item">
@@ -61,7 +61,7 @@ title: CoDe & DevOps Conference
       <a href="/program/#next_step">What is your next step in Continuous Delivery?</a><br /><em>Adriaan de Jonge, XebiaLabs </em><br/>&nbsp;
     </div>
   </div>
-    
+
 
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time timestamp">11:40</div>
@@ -71,14 +71,12 @@ title: CoDe & DevOps Conference
   </div>
 
   <div class="agenda-row">
-<<<<<<< HEAD
     <div class="agenda-column agenda-column-time timestamp">12:55</div>
-    <div class="agenda-column agenda-col2 agenda-item"><a href="/program#stairway">Stairway to heaven: Ten Best Practices for Enterprise Continuous Delivery with Jenkins</a><br/><em>Alex Manly, MidVision</em></div>
-=======
-    <div class="agenda-column agenda-column-time timestamp">11:50</div>
-    <div class="agenda-column agenda-col2 agenda-item"><a href="/program#stairway">Stairway to heaven: Ten Best Practices for Enterprise Continuous Delivery with Jenkins</a><br/><em>Alex Manly, Midvision</em></div>
->>>>>>> 2ba668c3885fe28b2529fd97c05a9f4853796f9a
-    <div class="agenda-column agenda-col2 agenda-item"><a href="/program#plugins">High Quality Jenkins Plugins</a><br/><em>Robert Hostlowsky & <br/>&nbsp;Christian Langmann, Codecentric AG</em></div>
+    <div class="agenda-column agenda-col2 agenda-item multi-line">
+
+    <a href="/program#stairway">Stairway to heaven: Ten Best Practices for Enterprise Continuous Delivery with Jenkins</a><br/><em>Alex Manly, MidVision</em></div>
+    <div class="agenda-column agenda-col2 agenda-item multi-line">
+    <a href="/program#plugins">High Quality Jenkins Plugins</a><br/><em>Robert Hostlowsky & <br/>&nbsp;Christian Langmann, Codecentric AG</em></div>
   </div>
 
   <div class="agenda-row">
@@ -99,7 +97,7 @@ title: CoDe & DevOps Conference
       </a><br />
       <em>Timo Stollenwerk, Plone Foundation</em>
     </div>
-    
+
     <div class="agenda-column agenda-col2 agenda-item multi-line">
       <a href="/program/#jci_as_component">Using Jenkins as a Component</a><br /><em>Jonas Bovin, Vitec ALOC</em>
     </div>
@@ -160,10 +158,10 @@ title: CoDe & DevOps Conference
     <div class="agenda-column agenda-1col agenda-header-item">Lightning Talks - 10 Minutes Per Talk</div>
   </div>
 
-  <div class="agenda-row"> 
+  <div class="agenda-row">
     <div class="agenda-column agenda-column-time timestamp">16:40</div>
     <div class="agenda-column agenda-col2 agenda-item"><a href="/program/#versioncontrol">Why Version Control requires CI <br/>- and vice versa</a><br/><em>Sven Erik Knop, Perforce</em><br/>&nbsp;</div>
-    
+
    <div class="agenda-column agenda-col2 agenda-item"><a href="/program/#teaching">Configuration management, CI and Jenkins in teaching</a><br/><em>Klaus Marius Hansen, Department of Computer Science - University of Copenhagen</em>
   </div>
 
@@ -171,20 +169,20 @@ title: CoDe & DevOps Conference
     <div class="agenda-column agenda-column-time timestamp">16:50</div>
     <div class="agenda-column agenda-1col agenda-break"><strong>Swap speaker</strong></div>
   </div>
-  
-      
+
+
   </div>
 
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time timestamp">16:55</div>
-    
+
     <div class="agenda-column agenda-col2 agenda-item"><a href="/program/#dsl">Manage Your Jobs With  Job DSL</a><br/><em>Niels Bech Nielsen, Nine Consult</em>
     </div>
-    
+
     <div class="agenda-column agenda-col2 agenda-item"><a href="/program/#metadata">Using Jenkins for Metadata Harvesting</a><br/><em>Kræn Hansen, BIT BLUEPRINT</em>
-    </div> 
+    </div>
   </div>
-  
+
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time">&nbsp;</div>
     <div class="agenda-column agenda-1col agenda-header-item">Wrap Up, Loosen Up, Speak Up, Drink Up</div>
