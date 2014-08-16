@@ -112,6 +112,8 @@ This talk will walk through the critical parts of a tool chain that forms the se
 Why is a version control system necessary for CI? Why is CI necessary for a version control systems?
 What is the role of code review in this process? It is all about protecting the mainline - making sure your project is always ready to build and deploy. Learn about how to keep your projects safe using the example of a build pipeline based on Perforce, Swarm and the new Jenkins Perforce plugin.
 
+Read [Sven's blog on this topic]({% post_url 2014-08-15-vcs-and-ci %})
+
 ## High Quality Plugins
 {: #plugins}
 
