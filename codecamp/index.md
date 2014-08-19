@@ -18,7 +18,7 @@ __The Code Camp is open__ to both developers with prior Jenkins CI development e
 
 Very efficient and very fun!
 
-The venue will be PraqmaPlex, our own facilities, which will provide cozy souroundings. In order to secure optimal surroundings for the camp, seats are limited to 35 - so if you wanna go, don't hesitate!.
+The venue will be PraqmaPlex, our own facilities as well as the nearby Mungo Park Theatre, which will provide cozy surroundings. In order to secure optimal surroundings for the camp, seats are limited to 35 - so if you wanna go, don't hesitate!.
 
 Last year the Code Camp featured programmers from 12 different companies as well as the founding father of Jenkins, Kohsuke Kawaguchi and community frontrunner Jesse Glick. This year we are expecting the same crowd as well as many more.  
 
