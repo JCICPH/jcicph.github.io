@@ -395,6 +395,7 @@ a {
    margin-right: auto;
    margin-bottom: 20px;
    margin-top: 0px;
+   display: block;
 }
 
 p a {

@@ -53,3 +53,7 @@ The intended audience for Code Camp is both experienced Jenkins developers and d
 ### Speakers
 
 Find more details specifically for speakers [here](/agenda/speaker.html).
+
+### Sponsor lineup
+
+Find more details specifically for sponsors in the lineup [here](/agenda/sponsor-lineup.html).
