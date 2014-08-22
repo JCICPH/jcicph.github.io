@@ -29,7 +29,7 @@ There are not a lot of accommodations close to the venue, however Copenhagen is 
 [Hotel Skt. Petri](http://www.sktpetri.com/)<br/>
 Krystalgade 22, 1172 Copenhagen<br/>
 
-[Wakeup Copenhagen][(https://www.wakeupcopenhagen.dk)<br/>
+[Wakeup Copenhagen](https://www.wakeupcopenhagen.dk)<br/>
 Borgergade 9, Copenhagen, 1300, Copenhagen<br/>
 
 ### Information for Sponsors
