@@ -7,6 +7,10 @@
     "target":"http://www.jcicph.dk/codecamp",
     "graphic":"http://www.jcicph.dk/images/jcicph-join.png"
   },
+  "codeuflow": {
+    "target":"http://www.meetup.com/code-u/events/216524912/",
+    "graphic":"http://www.jcicph.dk/images/codeu-git-flow.jpg"
+  },
   "codecph": {
     "target": "http://www.codecph.dk",
     "graphic": "http://www.codecph.dk/images/codecph+signature.png"
