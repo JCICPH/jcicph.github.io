@@ -27,19 +27,17 @@
     "cell":"+45 31 42 09 00",
     "skype":"jes.struck"
   },
-  "jbr": {
-    "name":"Jens Brejner",
-    "mail":"jbrejner@praqma.net",
-    "title":"Consultant",
-    "cell":"+45 22 616 313",
-    "skype":"jbrejner"
+  "jak": {
+    "name":"Jan Krag",
+    "mail":"jak@praqma.net",
+    "title":"Continuous Improvement Engineer",
+    "cell":"+45 26 88 23 84"
   },  
-  "kat": {
-    "name":"Kattia Palludan",
-    "mail":"kat@praqma.net",
-    "title":"Marketing",
-    "cell":"+45 30 42 01 02",
-    "skype":"live:kattiap"
+  "mil": {
+    "name":"Mike Long",
+    "mail":"mil@praqma.net",
+    "title":"Coach and Mentor in Embedded Software",
+    "cell":"+47 48 67 63 60"
   },
   "and": {
     "name":"Andrius Ordojan",
