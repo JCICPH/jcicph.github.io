@@ -1,11 +1,11 @@
-{ 
+{
   "ah": {
     "name":"Adam Henriques",
     "mail":"ah@praqma.net",
     "title":"Sales & Marketing",
     "cell":"+45 28 12 90 94",
     "skype":"adamhenriques"
-  },  
+  },
   "les": {
     "name":"Leif Sørensen",
     "mail":"les@praqma.net",
@@ -32,10 +32,10 @@
     "mail":"jak@praqma.net",
     "title":"Continuous Improvement Engineer",
     "cell":"+45 26 88 23 84"
-  },  
+  },
   "mil": {
     "name":"Mike Long",
-    "mail":"mil@praqma.net",
+    "mail":"mike@praqma.com",
     "title":"Coach and Mentor in Embedded Software",
     "cell":"+47 48 67 63 60"
   },
@@ -50,7 +50,7 @@
     "mail":"bue@praqma.net",
     "title":"Consultant",
     "cell":"+45 29 72 64 12"
-  },  
+  },
   "tim": {
     "name":"Tim Harris",
     "mail":"tim@praqma.net",
@@ -80,6 +80,6 @@
     "mail":"lak@praqma.net",
     "title":"Partner & Co-founder",
     "cell":"+45 20 87 25 30",
-    "skype":"lakruzz"      
+    "skype":"lakruzz"
   }
 }
