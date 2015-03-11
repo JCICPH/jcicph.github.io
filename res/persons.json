@@ -75,13 +75,19 @@
     "title":"Facility and office management",
     "cell":"+45 27 41 43 11"
   },
-  "smh": {
+  "heh": {
     "name":"Henrik Høegh",
     "mail":"heh@praqma.net",
     "title":"Consultant",
     "cell":"+45 25 18 84 20"
   },
-  "smh": {
+  "kaz": {
+    "name":"Kamran Azeem",
+    "mail":"kaz@praqma.net",
+    "title":"Consultant",
+    "cell":"+47 455 71 149"
+  },
+  "bes": {
     "name":"Bettina Stecher",
     "mail":"bes@praqma.net",
     "title":"Communication Manager",
