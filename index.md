@@ -6,7 +6,7 @@ title: Jenkins CI User Event 2014
 
 ## in the heart of Copenhagen.
 
-__August 22nd, 2014 at the Univercity of Copenhagen.__
+__August 22nd, 2014 at the University of Copenhagen.__
 
 ######<span style="background:#4b4b4b; color:#FFFFFF; padding:2px;">Didn't have time to go? Get all the presentation slides [HERE!](https://github.com/JCICPH/jcicph14/tree/master/Presentations){: target="_blank"}</span>
 
